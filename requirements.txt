@@ -1,0 +1,17 @@
+pandas==2.2.3
+numpy==2.3.5
+pyarrow==19.0.1
+scipy==1.15.2
+scikit-learn==1.6.1
+networkx==3.4.2
+matplotlib==3.10.1
+seaborn==0.13.2
+statsmodels==0.14.4
+ruptures==1.1.9
+bertopic==0.17.0
+sentence-transformers==3.4.1
+umap-learn==0.5.7
+hdbscan==0.8.40
+google-cloud-bigquery==3.38.0
+google-cloud-bigquery-storage==2.33.1
+db-dtypes==1.4.3
