@@ -1,0 +1,62 @@
+{
+  "analysis": "topics",
+  "inputs": [
+    {
+      "path": "data/abstract_sample.parquet",
+      "sha256": "26289f12c9cbe3bc1a2d47800a70b71e25edfeb92c6999adc3182bee37597de3"
+    }
+  ],
+  "parameters": {
+    "input": "data/abstract_sample.parquet",
+    "model": "sentence-transformers/all-MiniLM-L6-v2",
+    "minimum_topic_size": 100,
+    "minimum_samples": 10,
+    "cluster_selection_method": "leaf",
+    "reduce_outliers_threshold": 0.2,
+    "seeds": "266665684,266665685,266665686,266665687,266665688",
+    "permutations": 10000,
+    "recompute_embeddings": true
+  },
+  "outputs": [
+    {
+      "path": "results/abstract_embeddings.npy",
+      "sha256": "c5c1808dae4253ac04c8812f26fb28d5b4c0f928f4a776889833508819bc22db"
+    },
+    {
+      "path": "results/tables/topic_assignments.parquet",
+      "sha256": "3846ab6263ffe26faf7dec21041805cabb91c75d2bb9467af867f6a6bc126530"
+    },
+    {
+      "path": "results/tables/generative_topic_identification.csv",
+      "sha256": "5b10156239225ea621f7a72bfb7f57c99bbe0e1c11f073d2d558d8ab70039c50"
+    },
+    {
+      "path": "results/tables/topic_stability.json",
+      "sha256": "91d8447e908d74aa7e1a389a59a8215cd3f3a37f964117a94edc63a4cebae6b7"
+    },
+    {
+      "path": "results/tables/topic_information.csv",
+      "sha256": "b185489ce2cae05cdb11646a45f4db97131aee370511ca04bb07ec88cf1e8735"
+    },
+    {
+      "path": "results/tables/topic_prevalence_by_year.csv",
+      "sha256": "5782c341d995e6693df0100d4110b74387e1b67116934efe8fcaf763ddd85bed"
+    },
+    {
+      "path": "results/tables/topic_prevalence_by_quarter.csv",
+      "sha256": "637d172f8149e1a125fd5b98126d58769405acb778b99b31c497c3711eb95889"
+    },
+    {
+      "path": "results/tables/h4_post_2023_test.json",
+      "sha256": "6f23495ac34613c4e1698237292e9e9ba45a40dbadc5ad17d3c751b2e13f4b22"
+    },
+    {
+      "path": "results/bertopic_primary.pkl",
+      "sha256": "0a7430b69dd6eaca18b81108abc5fb51fe85af66f326c0a71e99a14389e6cca7"
+    },
+    {
+      "path": "results/figures/generative_topic_over_time.png",
+      "sha256": "bf8110dff6aff00ac38c3dac2eb181d98f1e1bd3f163495f70886266cba99c62"
+    }
+  ]
+}

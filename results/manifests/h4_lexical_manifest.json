@@ -1,0 +1,35 @@
+{
+  "analysis": "h4_lexical",
+  "inputs": [
+    {
+      "path": "data/abstract_sample.parquet",
+      "sha256": "26289f12c9cbe3bc1a2d47800a70b71e25edfeb92c6999adc3182bee37597de3"
+    }
+  ],
+  "parameters": {
+    "input": "data/abstract_sample.parquet",
+    "break_period": "2023Q1"
+  },
+  "outputs": [
+    {
+      "path": "results/tables/h4_lexical_prevalence_by_quarter.csv",
+      "sha256": "c2852db61d566b82f21010b86c5c3276adddc47c0f19942e6b5ef9333b1681fe"
+    },
+    {
+      "path": "results/tables/h4_lexical_prevalence_by_year.csv",
+      "sha256": "abc25ce12d95999a50951283f4516c091e72604ba497b1ee252f94ec8d9f4ea7"
+    },
+    {
+      "path": "results/tables/h4_lexical_pattern_counts.csv",
+      "sha256": "601a4a38bfc61febea5bf0ec12a45ce87fd2e19de0ac66ee1627b5160d1e4d3f"
+    },
+    {
+      "path": "results/tables/h4_lexical_break_tests.json",
+      "sha256": "9fbdcbb76c5169641ed74448f1f92b40b95f168d87572191204916b5ac39abc1"
+    },
+    {
+      "path": "results/figures/h4_lexical_prevalence.png",
+      "sha256": "62b3e946e447e9ee5b2fec90d443a27de357ed3566620e79947b26d81538d7da"
+    }
+  ]
+}

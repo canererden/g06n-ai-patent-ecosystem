@@ -1,0 +1,16 @@
+target,pattern_name,documents_matched
+generative_ai,generative_ai_or_model,123
+generative_ai,large_language_model,325
+generative_ai,foundation_model,4
+generative_ai,diffusion_model,109
+generative_ai,text_to_image,6
+generative_ai,image_generation_model,38
+generative_ai,prompt_engineering,10
+generative_ai,chatgpt,7
+generative_ai,gpt_3_or_4,4
+vision,computer_vision,503
+vision,image_processing_family,2246
+vision,object_detection,183
+vision,facial_recognition,14
+vision,visual_recognition,17
+vision,target_detection,1035

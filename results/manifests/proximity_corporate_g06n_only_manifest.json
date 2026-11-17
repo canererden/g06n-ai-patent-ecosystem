@@ -1,0 +1,57 @@
+{
+  "analysis": "proximity_corporate_g06n_only",
+  "inputs": [
+    {
+      "path": "data/assignee_cpc_year.parquet",
+      "sha256": "dc2fd98d094be571bc442efdb5675a4439463cdc387bdd451992c681d38a53a1"
+    }
+  ],
+  "parameters": {
+    "input": "data/assignee_cpc_year.parquet",
+    "minimum_families": 20.0,
+    "top_firms": 30,
+    "organization_scope": "corporate",
+    "label": "corporate_g06n_only",
+    "end_year": 2025,
+    "g06n_only": true,
+    "cpc_level": "full",
+    "weight_mode": "fractional_family",
+    "permutations": 10000,
+    "bootstrap": 500,
+    "seed": 266665684
+  },
+  "outputs": [
+    {
+      "path": "results/tables/annual_pairwise_similarity_corporate_g06n_only.csv",
+      "sha256": "b4382ba3456a2056cdd9d91a0b17d8385a59e43f28125b14f15b48cd9258e81e"
+    },
+    {
+      "path": "results/tables/h2_convergence_test_corporate_g06n_only.json",
+      "sha256": "158edd65215de60c1559f46a7da9dab7152f5dc5510077ddf27520516d2233f4"
+    },
+    {
+      "path": "results/figures/annual_proximity_trend_corporate_g06n_only.png",
+      "sha256": "3fc069ebe2dbef5507b99f98cb4f6bc479d55c31e8a9a6912acb523518c241fa"
+    },
+    {
+      "path": "results/tables/cluster_assignments_corporate_g06n_only.csv",
+      "sha256": "f03d22915b0026be30bf6b2b8f2c6cb3f6b6176f5b0173d4af68234b6d448993"
+    },
+    {
+      "path": "results/tables/cluster_selection_corporate_g06n_only.csv",
+      "sha256": "c51f03e26fa20d8f3c5cdd3da01c49b45bb8eb8167464c786bbe7ddc50039bb5"
+    },
+    {
+      "path": "results/tables/cluster_stability_corporate_g06n_only.json",
+      "sha256": "7dbb4d46172a93ba69a9a2b54c94d6e62756e136c010824c18e7f39d5965bda1"
+    },
+    {
+      "path": "results/tables/cluster_cpc_profiles_corporate_g06n_only.csv",
+      "sha256": "6f51f002abc3af56e97bf5ec9bf988df1a1a545894daf743af5c6ae60043a5d7"
+    },
+    {
+      "path": "results/figures/assignee_dendrogram_corporate_g06n_only.png",
+      "sha256": "4d031cfaf35768c763b2d2cf13809d12ca649a88f2c1e8c860dc41a654bd4919"
+    }
+  ]
+}

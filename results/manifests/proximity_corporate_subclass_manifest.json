@@ -1,0 +1,57 @@
+{
+  "analysis": "proximity_corporate_subclass",
+  "inputs": [
+    {
+      "path": "data/assignee_cpc_year.parquet",
+      "sha256": "dc2fd98d094be571bc442efdb5675a4439463cdc387bdd451992c681d38a53a1"
+    }
+  ],
+  "parameters": {
+    "input": "data/assignee_cpc_year.parquet",
+    "minimum_families": 20.0,
+    "top_firms": 30,
+    "organization_scope": "corporate",
+    "label": "corporate_subclass",
+    "end_year": 2025,
+    "g06n_only": false,
+    "cpc_level": "subclass",
+    "weight_mode": "fractional_family",
+    "permutations": 10000,
+    "bootstrap": 1000,
+    "seed": 266665684
+  },
+  "outputs": [
+    {
+      "path": "results/tables/annual_pairwise_similarity_corporate_subclass.csv",
+      "sha256": "e770f1603655acb7b6e4d9daa3c551eaf31b067a8f40f3966076a4dc5c0bd890"
+    },
+    {
+      "path": "results/tables/h2_convergence_test_corporate_subclass.json",
+      "sha256": "f5b01feaabd0d7900b25a734baef72ead6ff12a1c161018dc3a8528e1766ae10"
+    },
+    {
+      "path": "results/figures/annual_proximity_trend_corporate_subclass.png",
+      "sha256": "837d83b95623c41cad11731c1bf82f8dbcbc383dbb6d25d96d662b4601ab3549"
+    },
+    {
+      "path": "results/tables/cluster_assignments_corporate_subclass.csv",
+      "sha256": "e15a0a76c19d8e642381398252cbc60222caa80e0392e64bd3775e7c902404b8"
+    },
+    {
+      "path": "results/tables/cluster_selection_corporate_subclass.csv",
+      "sha256": "86a8f495a5f7e1bf2629e78e4235be25494e398fb858a2ba6fded59feac9c70c"
+    },
+    {
+      "path": "results/tables/cluster_stability_corporate_subclass.json",
+      "sha256": "495ce70eb2d2c7672985eb50b282396f1be485d18ea82703d407ea5a57341365"
+    },
+    {
+      "path": "results/tables/cluster_cpc_profiles_corporate_subclass.csv",
+      "sha256": "05a9a30fd757c954110e0f18d9296d6e8ba9d583377f8f661d8d4b806581dbb0"
+    },
+    {
+      "path": "results/figures/assignee_dendrogram_corporate_subclass.png",
+      "sha256": "3878eeb75389a962f0d72b1c45493dc99773ba48d16623be3f4ccb811677fc89"
+    }
+  ]
+}

@@ -1,0 +1,821 @@
+target,topic,matched_terms,match_count,top_terms,seed
+generative_ai,12,language; text,2,document; language; sentence; text; the; to; translation; vector; word; words,266665684
+generative_ai,16,language; text,2,answer; answers; knowledge; language; query; question; questionanswering; questions; search; text,266665684
+generative_ai,9,generation,1,an; first; generation; image; images; of; processing; second; the; to,266665684
+generative_ai,19,language,1,conversation; customer; dialogue; information; intention; language; reply; service; to; user,266665684
+generative_ai,22,text,1,character; characters; document; handwriting; image; license; plate; recognition; text; the,266665684
+generative_ai,27,semantic,1,and; feature; features; fusion; image; map; network; segmentation; semantic; the,266665684
+generative_ai,28,text,1,analysis; and; comment; emotion; opinion; public; sentiment; text; word; words,266665684
+generative_ai,50,generation,1,and; data; generation; panel; photovoltaic; power; prediction; solar; station; the,266665684
+generative_ai,51,text,1,entities; entity; extraction; named; relation; relationship; sentence; text; vector; word,266665684
+generative_ai,0,,0,advertisement; content; information; of; product; recommendation; recommended; the; to; user,266665684
+generative_ai,1,,0,and; bearing; data; diagnosis; equipment; fault; faults; maintenance; of; vibration,266665684
+generative_ai,2,,0,bit; circuit; first; gate; quantum; qubit; qubits; second; state; superconducting,266665684
+generative_ai,3,,0,and; data; model; monitoring; of; pollution; prediction; quality; the; water,266665684
+generative_ai,4,,0,detection; expression; face; facial; feature; human; image; living; recognition; the,266665684
+generative_ai,5,,0,and; defect; defects; detection; image; inspection; of; surface; the; welding,266665684
+generative_ai,6,,0,acoustic; audio; music; signal; sound; speaker; speech; the; to; voice,266665684
+generative_ai,7,,0,agricultural; and; crop; disease; growth; image; insect; pest; plant; the,266665684
+generative_ai,8,,0,and; data; drilling; geological; of; prediction; rock; seismic; the; well,266665684
+generative_ai,10,,0,data; first; for; learning; machine; model; of; one; set; training,266665684
+generative_ai,11,,0,client; data; federal; learning; local; model; privacy; server; the; training,266665684
+generative_ai,13,,0,and; driver; driving; information; of; the; to; track; vehicle; vehicles,266665684
+generative_ai,14,,0,attack; data; detection; flow; intrusion; malicious; network; security; the; threat,266665684
+generative_ai,15,,0,and; detection; fish; image; network; sar; ship; target; the; underwater,266665684
+generative_ai,17,,0,and; clinical; data; diagnosis; disease; health; information; medical; patient; treatment,266665684
+generative_ai,18,,0,aerial; algorithm; and; logistics; path; planning; the; transportation; unmanned; vehicle,266665684
+generative_ai,20,,0,accelerator; calculation; convolution; hardware; input; layer; network; neural; operation; processing,266665684
+generative_ai,21,,0,and; frame; frames; in; method; of; target; the; to; video,266665684
+generative_ai,23,,0,and; detected; detection; feature; image; network; object; target; the; to,266665684
+generative_ai,24,,0,and; chinese; compound; drug; medicine; molecular; molecule; prediction; protein; sequence,266665684
+generative_ai,25,,0,and; detection; image; lane; license; plate; road; the; traffic; vehicle,266665684
+generative_ai,26,,0,algorithm; fitness; genetic; of; optimal; optimization; particle; population; scheduling; solution,266665684
+generative_ai,29,,0,and; data; distribution; electric; equipment; fault; grid; line; operation; power,266665684
+generative_ai,30,,0,action; behavior; body; human; key; motion; posture; recognition; skeleton; video,266665684
+generative_ai,31,,0,consumption; data; electric; electricity; energy; historical; load; model; power; prediction,266665684
+generative_ai,32,,0,action; agent; environment; game; learning; policy; reinforcement; reward; state; strategy,266665684
+generative_ai,33,,0,crowd; detection; feature; features; gait; network; pedestrian; pedestrians; reidentification; rerecognition,266665684
+generative_ai,34,,0,battery; charge; charging; electric; lithium; of; pile; soc; the; vehicle,266665684
+generative_ai,35,,0,allocation; cloud; computing; edge; resource; resources; scheduling; server; service; task,266665684
+generative_ai,36,,0,distribution; energy; grid; optimal; optimization; power; scheduling; storage; supply; system,266665684
+generative_ai,37,,0,abnormal; abnormality; an; anomaly; data; detection; log; of; the; time,266665684
+generative_ai,38,,0,and; base; data; entities; entity; graph; knowledge; of; relation; the,266665684
+generative_ai,39,,0,air; and; conditioner; control; cooling; heat; of; temperature; the; thermal,266665684
+generative_ai,40,,0,an; apparatus; data; first; information; of; one; plurality; processing; unit,266665684
+generative_ai,41,,0,classification; feature; image; images; network; neural; recognition; the; to; training,266665684
+generative_ai,42,,0,and; cloud; data; laser; map; point; points; segmentation; the; threedimensional,266665684
+generative_ai,43,,0,and; exercise; gesture; hand; motion; of; recognition; rehabilitation; sign; the,266665684
+generative_ai,44,,0,circuit; electrode; input; memristor; neuromorphic; neuron; neurons; signal; synapse; synaptic,266665684
+generative_ai,45,,0,and; design; material; of; optimization; parameter; parameters; process; production; the,266665684
+generative_ai,46,,0,and; assessment; credit; data; enterprise; financial; information; of; risk; the,266665684
+generative_ai,47,,0,each; graph; in; network; neural; node; nodes; of; structure; the,266665684
+generative_ai,48,,0,compression; layer; model; network; neural; of; pruning; quantization; quantized; weight,266665684
+generative_ai,49,,0,and; congestion; control; data; flow; network; prediction; road; time; traffic,266665684
+generative_ai,52,,0,and; defogging; denoising; enhancement; image; images; network; noise; restoration; the,266665684
+generative_ai,53,,0,detection; frame; object; position; target; the; track; tracked; tracking; video,266665684
+generative_ai,54,,0,an; display; for; in; learning; reality; teaching; the; user; virtual,266665684
+generative_ai,55,,0,and; cigarette; combustion; detection; fire; firefighting; flame; forest; gas; smoke,266665684
+generative_ai,56,,0,and; change; detection; feature; fusion; image; images; network; remote; sensing,266665684
+generative_ai,57,,0,and; cooking; food; kitchen; materials; meal; of; tea; the; to,266665684
+generative_ai,58,,0,cell; circuit; device; first; includes; memory; of; one; plurality; second,266665684
+generative_ai,59,,0,and; highresolution; image; images; lowresolution; network; reconstruction; resolution; superresolution; the,266665684
+generative_ai,60,,0,and; brain; image; images; liver; medical; network; segmentation; the; tumor,266665684
+generative_ai,61,,0,base; channel; communication; first; information; network; radio; station; ue; wireless,266665684
+generative_ai,62,,0,and; brain; classification; eeg; electrical; electroencephalogram; emotion; signal; signals; the,266665684
+generative_ai,63,,0,channel; communication; frequency; identification; interference; modulation; network; neural; signal; signals,266665684
+generative_ai,64,,0,data; model; of; predicted; prediction; sequence; series; the; time; timeseries,266665684
+generative_ai,65,,0,blood; cardiac; ecg; electrocardiogram; electrocardiosignal; electrocardiosignals; heart; physiological; pressure; signal,266665684
+generative_ai,66,,0,artery; blood; carotid; fundus; image; plaque; retina; retinal; segmentation; vessel,266665684
+generative_ai,67,,0,and; data; of; plant; power; prediction; speed; the; turbine; wind,266665684
+generative_ai,68,,0,and; bridge; concrete; construction; crack; damage; detection; fracture; image; pavement,266665684
+generative_ai,69,,0,action; and; control; information; module; of; robot; robots; the; to,266665684
+generative_ai,70,,0,cancer; cell; cells; classification; image; images; of; pathological; tissue; tumor,266665684
+generative_ai,71,,0,animal; bird; chicken; cow; egg; livestock; milk; monitoring; pet; pig,266665684
+generative_ai,72,,0,authentication; biometric; finger; fingerprint; identification; identity; palm; recognition; user; vein,266665684
+generative_ai,73,,0,and; band; classification; features; hyperspectral; image; multispectral; spatial; spectral; spectrum,266665684
+generative_ai,74,,0,computing; deep; distributed; gradient; learning; model; node; nodes; the; training,266665684
+generative_ai,75,,0,camera; depth; estimation; image; map; object; pose; the; threedimensional; view,266665684
+generative_ai,76,,0,and; array; detection; echo; millimeter; radar; signal; target; the; wave,266665684
+generative_ai,77,,0,associated; at; device; for; may; more; one; or; to; user,266665684
+generative_ai,78,,0,ct; image; images; imaging; magnetic; medical; network; projection; reconstruction; resonance,266665684
+generative_ai,79,,0,abnormal; account; and; data; fraud; payment; the; to; transaction; transactions,266665684
+generative_ai,80,,0,case; cases; code; of; program; software; test; testing; the; to,266665684
+generative_ai,81,,0,chest; ct; diagnosis; image; images; lung; medical; nodule; pulmonary; xray,266665684
+vision,4,detection; face; image; recognition,4,detection; expression; face; facial; feature; human; image; living; recognition; the,266665684
+vision,23,detection; image; object,3,and; detected; detection; feature; image; network; object; target; the; to,266665684
+vision,53,detection; object; video,3,detection; frame; object; position; target; the; track; tracked; tracking; video,266665684
+vision,75,camera; image; object,3,camera; depth; estimation; image; map; object; pose; the; threedimensional; view,266665684
+vision,5,detection; image,2,and; defect; defects; detection; image; inspection; of; surface; the; welding,266665684
+vision,15,detection; image,2,and; detection; fish; image; network; sar; ship; target; the; underwater,266665684
+vision,22,image; recognition,2,character; characters; document; handwriting; image; license; plate; recognition; text; the,266665684
+vision,25,detection; image,2,and; detection; image; lane; license; plate; road; the; traffic; vehicle,266665684
+vision,27,image; segmentation,2,and; feature; features; fusion; image; map; network; segmentation; semantic; the,266665684
+vision,30,recognition; video,2,action; behavior; body; human; key; motion; posture; recognition; skeleton; video,266665684
+vision,41,image; recognition,2,classification; feature; image; images; network; neural; recognition; the; to; training,266665684
+vision,56,detection; image,2,and; change; detection; feature; fusion; image; images; network; remote; sensing,266665684
+vision,60,image; segmentation,2,and; brain; image; images; liver; medical; network; segmentation; the; tumor,266665684
+vision,66,image; segmentation,2,artery; blood; carotid; fundus; image; plaque; retina; retinal; segmentation; vessel,266665684
+vision,68,detection; image,2,and; bridge; concrete; construction; crack; damage; detection; fracture; image; pavement,266665684
+vision,7,image,1,agricultural; and; crop; disease; growth; image; insect; pest; plant; the,266665684
+vision,9,image,1,an; first; generation; image; images; of; processing; second; the; to,266665684
+vision,14,detection,1,attack; data; detection; flow; intrusion; malicious; network; security; the; threat,266665684
+vision,21,video,1,and; frame; frames; in; method; of; target; the; to; video,266665684
+vision,33,detection,1,crowd; detection; feature; features; gait; network; pedestrian; pedestrians; reidentification; rerecognition,266665684
+vision,37,detection,1,abnormal; abnormality; an; anomaly; data; detection; log; of; the; time,266665684
+vision,42,segmentation,1,and; cloud; data; laser; map; point; points; segmentation; the; threedimensional,266665684
+vision,43,recognition,1,and; exercise; gesture; hand; motion; of; recognition; rehabilitation; sign; the,266665684
+vision,52,image,1,and; defogging; denoising; enhancement; image; images; network; noise; restoration; the,266665684
+vision,55,detection,1,and; cigarette; combustion; detection; fire; firefighting; flame; forest; gas; smoke,266665684
+vision,59,image,1,and; highresolution; image; images; lowresolution; network; reconstruction; resolution; superresolution; the,266665684
+vision,70,image,1,cancer; cell; cells; classification; image; images; of; pathological; tissue; tumor,266665684
+vision,72,recognition,1,authentication; biometric; finger; fingerprint; identification; identity; palm; recognition; user; vein,266665684
+vision,73,image,1,and; band; classification; features; hyperspectral; image; multispectral; spatial; spectral; spectrum,266665684
+vision,76,detection,1,and; array; detection; echo; millimeter; radar; signal; target; the; wave,266665684
+vision,78,image,1,ct; image; images; imaging; magnetic; medical; network; projection; reconstruction; resonance,266665684
+vision,81,image,1,chest; ct; diagnosis; image; images; lung; medical; nodule; pulmonary; xray,266665684
+vision,0,,0,advertisement; content; information; of; product; recommendation; recommended; the; to; user,266665684
+vision,1,,0,and; bearing; data; diagnosis; equipment; fault; faults; maintenance; of; vibration,266665684
+vision,2,,0,bit; circuit; first; gate; quantum; qubit; qubits; second; state; superconducting,266665684
+vision,3,,0,and; data; model; monitoring; of; pollution; prediction; quality; the; water,266665684
+vision,6,,0,acoustic; audio; music; signal; sound; speaker; speech; the; to; voice,266665684
+vision,8,,0,and; data; drilling; geological; of; prediction; rock; seismic; the; well,266665684
+vision,10,,0,data; first; for; learning; machine; model; of; one; set; training,266665684
+vision,11,,0,client; data; federal; learning; local; model; privacy; server; the; training,266665684
+vision,12,,0,document; language; sentence; text; the; to; translation; vector; word; words,266665684
+vision,13,,0,and; driver; driving; information; of; the; to; track; vehicle; vehicles,266665684
+vision,16,,0,answer; answers; knowledge; language; query; question; questionanswering; questions; search; text,266665684
+vision,17,,0,and; clinical; data; diagnosis; disease; health; information; medical; patient; treatment,266665684
+vision,18,,0,aerial; algorithm; and; logistics; path; planning; the; transportation; unmanned; vehicle,266665684
+vision,19,,0,conversation; customer; dialogue; information; intention; language; reply; service; to; user,266665684
+vision,20,,0,accelerator; calculation; convolution; hardware; input; layer; network; neural; operation; processing,266665684
+vision,24,,0,and; chinese; compound; drug; medicine; molecular; molecule; prediction; protein; sequence,266665684
+vision,26,,0,algorithm; fitness; genetic; of; optimal; optimization; particle; population; scheduling; solution,266665684
+vision,28,,0,analysis; and; comment; emotion; opinion; public; sentiment; text; word; words,266665684
+vision,29,,0,and; data; distribution; electric; equipment; fault; grid; line; operation; power,266665684
+vision,31,,0,consumption; data; electric; electricity; energy; historical; load; model; power; prediction,266665684
+vision,32,,0,action; agent; environment; game; learning; policy; reinforcement; reward; state; strategy,266665684
+vision,34,,0,battery; charge; charging; electric; lithium; of; pile; soc; the; vehicle,266665684
+vision,35,,0,allocation; cloud; computing; edge; resource; resources; scheduling; server; service; task,266665684
+vision,36,,0,distribution; energy; grid; optimal; optimization; power; scheduling; storage; supply; system,266665684
+vision,38,,0,and; base; data; entities; entity; graph; knowledge; of; relation; the,266665684
+vision,39,,0,air; and; conditioner; control; cooling; heat; of; temperature; the; thermal,266665684
+vision,40,,0,an; apparatus; data; first; information; of; one; plurality; processing; unit,266665684
+vision,44,,0,circuit; electrode; input; memristor; neuromorphic; neuron; neurons; signal; synapse; synaptic,266665684
+vision,45,,0,and; design; material; of; optimization; parameter; parameters; process; production; the,266665684
+vision,46,,0,and; assessment; credit; data; enterprise; financial; information; of; risk; the,266665684
+vision,47,,0,each; graph; in; network; neural; node; nodes; of; structure; the,266665684
+vision,48,,0,compression; layer; model; network; neural; of; pruning; quantization; quantized; weight,266665684
+vision,49,,0,and; congestion; control; data; flow; network; prediction; road; time; traffic,266665684
+vision,50,,0,and; data; generation; panel; photovoltaic; power; prediction; solar; station; the,266665684
+vision,51,,0,entities; entity; extraction; named; relation; relationship; sentence; text; vector; word,266665684
+vision,54,,0,an; display; for; in; learning; reality; teaching; the; user; virtual,266665684
+vision,57,,0,and; cooking; food; kitchen; materials; meal; of; tea; the; to,266665684
+vision,58,,0,cell; circuit; device; first; includes; memory; of; one; plurality; second,266665684
+vision,61,,0,base; channel; communication; first; information; network; radio; station; ue; wireless,266665684
+vision,62,,0,and; brain; classification; eeg; electrical; electroencephalogram; emotion; signal; signals; the,266665684
+vision,63,,0,channel; communication; frequency; identification; interference; modulation; network; neural; signal; signals,266665684
+vision,64,,0,data; model; of; predicted; prediction; sequence; series; the; time; timeseries,266665684
+vision,65,,0,blood; cardiac; ecg; electrocardiogram; electrocardiosignal; electrocardiosignals; heart; physiological; pressure; signal,266665684
+vision,67,,0,and; data; of; plant; power; prediction; speed; the; turbine; wind,266665684
+vision,69,,0,action; and; control; information; module; of; robot; robots; the; to,266665684
+vision,71,,0,animal; bird; chicken; cow; egg; livestock; milk; monitoring; pet; pig,266665684
+vision,74,,0,computing; deep; distributed; gradient; learning; model; node; nodes; the; training,266665684
+vision,77,,0,associated; at; device; for; may; more; one; or; to; user,266665684
+vision,79,,0,abnormal; account; and; data; fraud; payment; the; to; transaction; transactions,266665684
+vision,80,,0,case; cases; code; of; program; software; test; testing; the; to,266665684
+generative_ai,20,language; text,2,conversation; dialogue; information; intention; language; one; text; the; to; user,266665685
+generative_ai,27,language; text,2,document; language; sentence; text; the; to; translation; vector; word; words,266665685
+generative_ai,36,language; text,2,answer; answers; knowledge; language; query; question; questionanswer; questionanswering; questions; text,266665685
+generative_ai,2,generation,1,an; and; first; generation; image; images; of; processing; the; to,266665685
+generative_ai,23,text,1,character; characters; document; handwriting; identification; image; license; plate; recognition; text,266665685
+generative_ai,26,text,1,analysis; and; comment; emotion; opinion; public; sentiment; text; word; words,266665685
+generative_ai,37,semantic,1,feature; image; map; network; saliency; segmentation; segmented; semantic; the; to,266665685
+generative_ai,45,generation,1,and; data; generation; panel; photovoltaic; power; prediction; solar; station; the,266665685
+generative_ai,49,text,1,entities; entity; extraction; named; relation; relationship; sentence; text; vector; word,266665685
+generative_ai,78,text,1,and; audio; recognition; signal; speaker; speech; text; the; to; voice,266665685
+generative_ai,0,,0,content; for; information; of; product; recommendation; the; to; user; users,266665685
+generative_ai,1,,0,and; bearing; data; diagnosis; equipment; fault; maintenance; of; the; vibration,266665685
+generative_ai,3,,0,and; defect; defects; detection; image; inspection; of; surface; the; welding,266665685
+generative_ai,4,,0,circuit; first; gate; of; quantum; qubit; qubits; second; state; superconducting,266665685
+generative_ai,5,,0,and; detection; expression; face; facial; feature; human; image; recognition; the,266665685
+generative_ai,6,,0,and; data; model; monitoring; of; pollution; prediction; quality; the; water,266665685
+generative_ai,7,,0,agricultural; and; crop; disease; growth; insect; leaf; pest; plant; the,266665685
+generative_ai,8,,0,and; data; drilling; geological; of; prediction; rock; seismic; the; well,266665685
+generative_ai,9,,0,and; ct; image; images; lung; medical; segmentation; the; tumor; xray,266665685
+generative_ai,10,,0,and; frame; frames; image; in; of; target; the; to; video,266665685
+generative_ai,11,,0,data; for; learning; machine; model; of; set; the; to; training,266665685
+generative_ai,12,,0,and; clinical; data; diagnosis; disease; for; health; medical; patient; treatment,266665685
+generative_ai,13,,0,attack; data; detection; flow; intrusion; malicious; network; security; the; threat,266665685
+generative_ai,14,,0,and; credit; data; financial; information; risk; the; to; transaction; user,266665685
+generative_ai,15,,0,aerial; algorithm; and; logistics; path; planning; the; transportation; unmanned; vehicle,266665685
+generative_ai,16,,0,and; data; distribution; electric; equipment; fault; grid; line; power; the,266665685
+generative_ai,17,,0,driver; driving; for; information; of; the; to; track; vehicle; vehicles,266665685
+generative_ai,18,,0,air; and; consumption; control; energy; heat; of; prediction; temperature; the,266665685
+generative_ai,19,,0,chinese; compound; drug; medicine; molecular; molecule; molecules; prediction; protein; sequence,266665685
+generative_ai,21,,0,algorithm; fitness; genetic; optimal; optimization; particle; population; scheduling; solution; the,266665685
+generative_ai,22,,0,action; agent; environment; game; learning; reinforcement; reward; state; strategy; the,266665685
+generative_ai,24,,0,circuit; device; first; input; memory; neural; operation; processing; second; unit,266665685
+generative_ai,25,,0,and; detected; detection; feature; image; network; object; target; the; to,266665685
+generative_ai,28,,0,cloud; computing; edge; resource; resources; scheduling; server; service; task; the,266665685
+generative_ai,29,,0,crowd; detection; feature; gait; network; pedestrian; pedestrians; reidentification; rerecognition; the,266665685
+generative_ai,30,,0,detection; driving; image; lane; license; plate; road; the; traffic; vehicle,266665685
+generative_ai,31,,0,and; data; entities; entity; graph; knowledge; of; relation; the; to,266665685
+generative_ai,32,,0,action; behavior; body; human; key; motion; posture; recognition; skeleton; video,266665685
+generative_ai,33,,0,consumption; data; electric; electricity; energy; historical; load; model; power; prediction,266665685
+generative_ai,34,,0,and; cloud; data; laser; map; point; points; segmentation; the; threedimensional,266665685
+generative_ai,35,,0,and; design; material; model; of; optimization; parameter; parameters; process; the,266665685
+generative_ai,38,,0,abnormal; abnormality; an; anomaly; data; detection; log; of; the; time,266665685
+generative_ai,39,,0,classification; feature; image; images; network; recognition; sample; the; to; training,266665685
+generative_ai,40,,0,distribution; electric; energy; grid; load; optimal; optimization; power; scheduling; system,266665685
+generative_ai,41,,0,and; body; gesture; hand; motion; of; recognition; the; touch; user,266665685
+generative_ai,42,,0,and; detection; fish; image; marine; ship; sonar; target; the; underwater,266665685
+generative_ai,43,,0,each; graph; in; network; neural; node; nodes; of; structure; the,266665685
+generative_ai,44,,0,congestion; control; data; flow; lamp; network; prediction; road; time; traffic,266665685
+generative_ai,46,,0,compression; layer; model; network; neural; of; pruning; quantization; the; weight,266665685
+generative_ai,47,,0,accelerator; calculation; convolution; convolutional; hardware; input; layer; matrix; neural; operation,266665685
+generative_ai,48,,0,3d; camera; depth; estimation; image; pose; scene; the; threedimensional; view,266665685
+generative_ai,50,,0,circuit; electrode; input; memristor; neuromorphic; neuron; neurons; pulse; synapse; synaptic,266665685
+generative_ai,51,,0,an; apparatus; data; device; first; information; of; one; plurality; unit,266665685
+generative_ai,52,,0,highresolution; image; images; lowresolution; network; reconstruction; resolution; restoration; superresolution; the,266665685
+generative_ai,53,,0,detection; frame; object; position; positioning; target; the; track; tracking; video,266665685
+generative_ai,54,,0,ct; denoising; image; imaging; magnetic; network; noise; reconstruction; resonance; the,266665685
+generative_ai,55,,0,and; change; detection; feature; fusion; image; images; network; remote; sensing,266665685
+generative_ai,56,,0,and; bridge; coal; concrete; construction; crack; damage; detection; image; the,266665685
+generative_ai,57,,0,and; cigarette; detection; fire; firefighting; flame; forest; gas; smoke; smoking,266665685
+generative_ai,58,,0,and; detection; image; millimeter; network; radar; sar; signal; target; the,266665685
+generative_ai,59,,0,channel; communication; device; first; information; network; radio; station; ue; wireless,266665685
+generative_ai,60,,0,data; encrypted; encryption; federal; local; model; privacy; protection; server; the,266665685
+generative_ai,61,,0,channel; communication; frequency; identification; interference; modulation; network; signal; signals; spectrum,266665685
+generative_ai,62,,0,battery; charging; ion; lithium; of; pack; soc; soh; state; voltage,266665685
+generative_ai,63,,0,data; event; of; predicted; prediction; sequence; series; the; time; timeseries,266665685
+generative_ai,64,,0,breast; cancer; cell; cells; cervical; classification; image; images; of; pathological,266665685
+generative_ai,65,,0,artery; blood; carotid; fundus; image; plaque; retinal; segmentation; vein; vessel,266665685
+generative_ai,66,,0,and; data; of; plant; power; prediction; speed; the; turbine; wind,266665685
+generative_ai,67,,0,and; brain; classification; eeg; electrical; electroencephalogram; emotion; signal; signals; stimulation,266665685
+generative_ai,68,,0,client; federal; federated; federation; global; learning; local; model; server; training,266665685
+generative_ai,69,,0,an; control; for; information; intelligence; of; robot; system; the; to,266665685
+generative_ai,70,,0,and; cooking; food; information; kitchen; materials; meal; of; the; to,266665685
+generative_ai,71,,0,and; biological; cancer; cell; dna; expression; for; gene; of; prediction,266665685
+generative_ai,72,,0,and; band; classification; features; hyperspectral; image; multispectral; spatial; spectral; spectrum,266665685
+generative_ai,73,,0,animal; bird; cow; egg; identification; livestock; milk; monitoring; pet; pig,266665685
+generative_ai,74,,0,blood; cardiac; ecg; electrocardiogram; electrocardiosignal; electrocardiosignals; heart; pressure; signal; signals,266665685
+generative_ai,75,,0,content; document; of; one; query; retrieval; search; the; to; user,266665685
+generative_ai,76,,0,computing; deep; distributed; gradient; learning; model; node; nodes; the; training,266665685
+generative_ai,77,,0,acoustic; audio; frequency; music; noise; signal; sound; the; to; voice,266665685
+vision,5,detection; face; image; recognition,4,and; detection; expression; face; facial; feature; human; image; recognition; the,266665685
+vision,25,detection; image; object,3,and; detected; detection; feature; image; network; object; target; the; to,266665685
+vision,53,detection; object; video,3,detection; frame; object; position; positioning; target; the; track; tracking; video,266665685
+vision,3,detection; image,2,and; defect; defects; detection; image; inspection; of; surface; the; welding,266665685
+vision,9,image; segmentation,2,and; ct; image; images; lung; medical; segmentation; the; tumor; xray,266665685
+vision,10,image; video,2,and; frame; frames; image; in; of; target; the; to; video,266665685
+vision,23,image; recognition,2,character; characters; document; handwriting; identification; image; license; plate; recognition; text,266665685
+vision,30,detection; image,2,detection; driving; image; lane; license; plate; road; the; traffic; vehicle,266665685
+vision,32,recognition; video,2,action; behavior; body; human; key; motion; posture; recognition; skeleton; video,266665685
+vision,37,image; segmentation,2,feature; image; map; network; saliency; segmentation; segmented; semantic; the; to,266665685
+vision,39,image; recognition,2,classification; feature; image; images; network; recognition; sample; the; to; training,266665685
+vision,42,detection; image,2,and; detection; fish; image; marine; ship; sonar; target; the; underwater,266665685
+vision,48,camera; image,2,3d; camera; depth; estimation; image; pose; scene; the; threedimensional; view,266665685
+vision,55,detection; image,2,and; change; detection; feature; fusion; image; images; network; remote; sensing,266665685
+vision,56,detection; image,2,and; bridge; coal; concrete; construction; crack; damage; detection; image; the,266665685
+vision,58,detection; image,2,and; detection; image; millimeter; network; radar; sar; signal; target; the,266665685
+vision,65,image; segmentation,2,artery; blood; carotid; fundus; image; plaque; retinal; segmentation; vein; vessel,266665685
+vision,2,image,1,an; and; first; generation; image; images; of; processing; the; to,266665685
+vision,13,detection,1,attack; data; detection; flow; intrusion; malicious; network; security; the; threat,266665685
+vision,29,detection,1,crowd; detection; feature; gait; network; pedestrian; pedestrians; reidentification; rerecognition; the,266665685
+vision,34,segmentation,1,and; cloud; data; laser; map; point; points; segmentation; the; threedimensional,266665685
+vision,38,detection,1,abnormal; abnormality; an; anomaly; data; detection; log; of; the; time,266665685
+vision,41,recognition,1,and; body; gesture; hand; motion; of; recognition; the; touch; user,266665685
+vision,52,image,1,highresolution; image; images; lowresolution; network; reconstruction; resolution; restoration; superresolution; the,266665685
+vision,54,image,1,ct; denoising; image; imaging; magnetic; network; noise; reconstruction; resonance; the,266665685
+vision,57,detection,1,and; cigarette; detection; fire; firefighting; flame; forest; gas; smoke; smoking,266665685
+vision,64,image,1,breast; cancer; cell; cells; cervical; classification; image; images; of; pathological,266665685
+vision,72,image,1,and; band; classification; features; hyperspectral; image; multispectral; spatial; spectral; spectrum,266665685
+vision,78,recognition,1,and; audio; recognition; signal; speaker; speech; text; the; to; voice,266665685
+vision,0,,0,content; for; information; of; product; recommendation; the; to; user; users,266665685
+vision,1,,0,and; bearing; data; diagnosis; equipment; fault; maintenance; of; the; vibration,266665685
+vision,4,,0,circuit; first; gate; of; quantum; qubit; qubits; second; state; superconducting,266665685
+vision,6,,0,and; data; model; monitoring; of; pollution; prediction; quality; the; water,266665685
+vision,7,,0,agricultural; and; crop; disease; growth; insect; leaf; pest; plant; the,266665685
+vision,8,,0,and; data; drilling; geological; of; prediction; rock; seismic; the; well,266665685
+vision,11,,0,data; for; learning; machine; model; of; set; the; to; training,266665685
+vision,12,,0,and; clinical; data; diagnosis; disease; for; health; medical; patient; treatment,266665685
+vision,14,,0,and; credit; data; financial; information; risk; the; to; transaction; user,266665685
+vision,15,,0,aerial; algorithm; and; logistics; path; planning; the; transportation; unmanned; vehicle,266665685
+vision,16,,0,and; data; distribution; electric; equipment; fault; grid; line; power; the,266665685
+vision,17,,0,driver; driving; for; information; of; the; to; track; vehicle; vehicles,266665685
+vision,18,,0,air; and; consumption; control; energy; heat; of; prediction; temperature; the,266665685
+vision,19,,0,chinese; compound; drug; medicine; molecular; molecule; molecules; prediction; protein; sequence,266665685
+vision,20,,0,conversation; dialogue; information; intention; language; one; text; the; to; user,266665685
+vision,21,,0,algorithm; fitness; genetic; optimal; optimization; particle; population; scheduling; solution; the,266665685
+vision,22,,0,action; agent; environment; game; learning; reinforcement; reward; state; strategy; the,266665685
+vision,24,,0,circuit; device; first; input; memory; neural; operation; processing; second; unit,266665685
+vision,26,,0,analysis; and; comment; emotion; opinion; public; sentiment; text; word; words,266665685
+vision,27,,0,document; language; sentence; text; the; to; translation; vector; word; words,266665685
+vision,28,,0,cloud; computing; edge; resource; resources; scheduling; server; service; task; the,266665685
+vision,31,,0,and; data; entities; entity; graph; knowledge; of; relation; the; to,266665685
+vision,33,,0,consumption; data; electric; electricity; energy; historical; load; model; power; prediction,266665685
+vision,35,,0,and; design; material; model; of; optimization; parameter; parameters; process; the,266665685
+vision,36,,0,answer; answers; knowledge; language; query; question; questionanswer; questionanswering; questions; text,266665685
+vision,40,,0,distribution; electric; energy; grid; load; optimal; optimization; power; scheduling; system,266665685
+vision,43,,0,each; graph; in; network; neural; node; nodes; of; structure; the,266665685
+vision,44,,0,congestion; control; data; flow; lamp; network; prediction; road; time; traffic,266665685
+vision,45,,0,and; data; generation; panel; photovoltaic; power; prediction; solar; station; the,266665685
+vision,46,,0,compression; layer; model; network; neural; of; pruning; quantization; the; weight,266665685
+vision,47,,0,accelerator; calculation; convolution; convolutional; hardware; input; layer; matrix; neural; operation,266665685
+vision,49,,0,entities; entity; extraction; named; relation; relationship; sentence; text; vector; word,266665685
+vision,50,,0,circuit; electrode; input; memristor; neuromorphic; neuron; neurons; pulse; synapse; synaptic,266665685
+vision,51,,0,an; apparatus; data; device; first; information; of; one; plurality; unit,266665685
+vision,59,,0,channel; communication; device; first; information; network; radio; station; ue; wireless,266665685
+vision,60,,0,data; encrypted; encryption; federal; local; model; privacy; protection; server; the,266665685
+vision,61,,0,channel; communication; frequency; identification; interference; modulation; network; signal; signals; spectrum,266665685
+vision,62,,0,battery; charging; ion; lithium; of; pack; soc; soh; state; voltage,266665685
+vision,63,,0,data; event; of; predicted; prediction; sequence; series; the; time; timeseries,266665685
+vision,66,,0,and; data; of; plant; power; prediction; speed; the; turbine; wind,266665685
+vision,67,,0,and; brain; classification; eeg; electrical; electroencephalogram; emotion; signal; signals; stimulation,266665685
+vision,68,,0,client; federal; federated; federation; global; learning; local; model; server; training,266665685
+vision,69,,0,an; control; for; information; intelligence; of; robot; system; the; to,266665685
+vision,70,,0,and; cooking; food; information; kitchen; materials; meal; of; the; to,266665685
+vision,71,,0,and; biological; cancer; cell; dna; expression; for; gene; of; prediction,266665685
+vision,73,,0,animal; bird; cow; egg; identification; livestock; milk; monitoring; pet; pig,266665685
+vision,74,,0,blood; cardiac; ecg; electrocardiogram; electrocardiosignal; electrocardiosignals; heart; pressure; signal; signals,266665685
+vision,75,,0,content; document; of; one; query; retrieval; search; the; to; user,266665685
+vision,76,,0,computing; deep; distributed; gradient; learning; model; node; nodes; the; training,266665685
+vision,77,,0,acoustic; audio; frequency; music; noise; signal; sound; the; to; voice,266665685
+generative_ai,10,language; text,2,document; language; sentence; text; the; to; translation; vector; word; words,266665686
+generative_ai,16,language; text,2,answer; answers; knowledge; language; query; question; questionanswering; questions; search; text,266665686
+generative_ai,17,language; text,2,conversation; customer; dialogue; information; intention; language; service; text; to; user,266665686
+generative_ai,2,generation,1,an; first; generation; image; images; object; of; processing; the; to,266665686
+generative_ai,21,text,1,character; characters; document; handwriting; image; license; plate; recognition; text; the,266665686
+generative_ai,25,text,1,analysis; and; comment; emotion; opinion; public; sentiment; text; the; word,266665686
+generative_ai,39,semantic,1,feature; image; map; network; saliency; segmentation; segmented; semantic; the; to,266665686
+generative_ai,44,text,1,entities; entity; extraction; named; recognition; relation; sentence; text; vector; word,266665686
+generative_ai,47,generation,1,and; data; energy; generation; panel; photovoltaic; power; prediction; solar; station,266665686
+generative_ai,0,,0,and; bearing; data; diagnosis; equipment; fault; faults; maintenance; the; vibration,266665686
+generative_ai,1,,0,data; first; for; learning; machine; model; of; one; to; training,266665686
+generative_ai,3,,0,bit; circuit; first; gate; quantum; qubit; qubits; second; state; superconducting,266665686
+generative_ai,4,,0,and; data; drilling; gas; geological; of; pipeline; prediction; rock; the,266665686
+generative_ai,5,,0,and; concentration; data; model; monitoring; pollution; prediction; quality; the; water,266665686
+generative_ai,6,,0,detection; expression; face; facial; feature; human; image; living; recognition; the,266665686
+generative_ai,7,,0,acoustic; audio; music; signal; sound; speaker; speech; the; to; voice,266665686
+generative_ai,8,,0,and; defect; defects; detection; image; inspection; of; surface; the; welding,266665686
+generative_ai,9,,0,agricultural; and; crop; disease; growth; image; insect; pest; plant; the,266665686
+generative_ai,11,,0,client; data; federal; learning; local; model; privacy; server; the; training,266665686
+generative_ai,12,,0,and; frame; frames; image; in; of; target; the; to; video,266665686
+generative_ai,13,,0,driver; driving; information; of; state; the; to; track; vehicle; vehicles,266665686
+generative_ai,14,,0,content; information; preference; recommendation; recommended; recommending; the; to; user; users,266665686
+generative_ai,15,,0,and; clinical; data; diagnosis; disease; for; health; medical; patient; treatment,266665686
+generative_ai,18,,0,attack; data; detection; flow; intrusion; malicious; network; security; threat; vulnerability,266665686
+generative_ai,19,,0,and; body; gesture; hand; human; key; motion; point; posture; the,266665686
+generative_ai,20,,0,and; chinese; compound; drug; medicine; molecular; molecule; prediction; protein; sequence,266665686
+generative_ai,22,,0,cloud; computing; edge; resource; resources; scheduling; server; service; task; the,266665686
+generative_ai,23,,0,and; detected; detection; feature; image; network; object; target; the; to,266665686
+generative_ai,24,,0,consumption; data; electric; electricity; energy; historical; load; model; power; prediction,266665686
+generative_ai,26,,0,and; base; data; entities; entity; graph; knowledge; relation; the; to,266665686
+generative_ai,27,,0,action; agent; decision; environment; learning; policy; reinforcement; reward; state; strategy,266665686
+generative_ai,28,,0,and; detection; fish; image; network; sar; ship; target; the; underwater,266665686
+generative_ai,29,,0,crowd; detection; feature; features; gait; network; pedestrian; pedestrians; reidentification; rerecognition,266665686
+generative_ai,30,,0,battery; charging; electric; ion; lithium; of; pile; soc; the; vehicle,266665686
+generative_ai,31,,0,distribution; energy; grid; optimal; optimization; power; scheduling; storage; supply; system,266665686
+generative_ai,32,,0,abnormal; abnormality; an; anomaly; data; detection; log; of; the; time,266665686
+generative_ai,33,,0,and; cloud; feature; laser; map; point; points; segmentation; the; threedimensional,266665686
+generative_ai,34,,0,assessment; credit; data; enterprise; financial; information; insurance; of; risk; the,266665686
+generative_ai,35,,0,data; distribution; electric; equipment; fault; grid; line; operation; power; system,266665686
+generative_ai,36,,0,algorithm; fitness; genetic; of; optimal; optimization; particle; population; scheduling; solution,266665686
+generative_ai,37,,0,an; apparatus; data; first; information; of; one; plurality; processing; unit,266665686
+generative_ai,38,,0,air; and; conditioner; control; cooling; heat; of; temperature; the; thermal,266665686
+generative_ai,40,,0,classification; feature; image; images; network; neural; recognition; sample; the; training,266665686
+generative_ai,41,,0,compression; layer; model; network; neural; of; pruning; quantization; the; weight,266665686
+generative_ai,42,,0,an; and; defogging; enhancement; image; images; network; quality; restoration; the,266665686
+generative_ai,43,,0,each; graph; network; neural; node; nodes; of; social; structure; the,266665686
+generative_ai,45,,0,and; control; data; flow; network; prediction; road; the; time; traffic,266665686
+generative_ai,46,,0,3d; camera; depth; estimation; image; pose; scene; the; threedimensional; view,266665686
+generative_ai,48,,0,action; behavior; body; human; motion; recognition; sequence; skeleton; the; video,266665686
+generative_ai,49,,0,and; detection; image; lane; license; plate; road; the; traffic; vehicle,266665686
+generative_ai,50,,0,ct; denoising; image; images; imaging; magnetic; network; noise; reconstruction; resonance,266665686
+generative_ai,51,,0,and; detection; frame; object; position; target; the; track; tracking; video,266665686
+generative_ai,52,,0,circuit; electrode; input; memristor; neuromorphic; neuron; neurons; signal; synapse; synaptic,266665686
+generative_ai,53,,0,accelerator; calculation; convolution; convolutional; hardware; input; layer; matrix; neural; operation,266665686
+generative_ai,54,,0,design; material; of; optimization; parameter; parameters; prediction; process; production; the,266665686
+generative_ai,55,,0,and; cigarette; detection; fire; firefighting; flame; forest; image; smoke; smoking,266665686
+generative_ai,56,,0,and; brain; endoscope; image; images; medical; network; segmentation; the; tumor,266665686
+generative_ai,57,,0,and; cooking; food; kitchen; materials; meal; of; tea; the; to,266665686
+generative_ai,58,,0,and; change; detection; feature; fusion; image; module; network; remote; sensing,266665686
+generative_ai,59,,0,algorithm; ant; delivery; goods; logistics; path; planning; scheduling; transportation; warehouse,266665686
+generative_ai,60,,0,and; highresolution; image; images; lowresolution; network; reconstruction; resolution; superresolution; the,266665686
+generative_ai,61,,0,base; channel; communication; first; network; positioning; radio; station; ue; wireless,266665686
+generative_ai,62,,0,and; data; generator; of; power; prediction; speed; the; turbine; wind,266665686
+generative_ai,63,,0,and; brain; eeg; electrical; electroencephalogram; emotion; signal; signals; stimulation; the,266665686
+generative_ai,64,,0,artery; blood; carotid; fundus; image; plaque; retina; retinal; segmentation; vessel,266665686
+generative_ai,65,,0,channel; communication; frequency; interference; modulation; network; neural; signal; signals; spectrum,266665686
+generative_ai,66,,0,and; chest; ct; image; liver; lung; nodule; pulmonary; segmentation; xray,266665686
+generative_ai,67,,0,data; model; of; predicted; prediction; sequence; series; the; time; timeseries,266665686
+generative_ai,68,,0,blood; cardiac; ecg; electrocardiogram; electrocardiosignal; electrocardiosignals; heart; physiological; pressure; signal,266665686
+generative_ai,69,,0,cancer; cell; cells; cervical; classification; image; images; of; pathological; tumor,266665686
+generative_ai,70,,0,circuit; device; first; input; memory; operation; plurality; processing; second; unit,266665686
+generative_ai,71,,0,authentication; biometric; finger; fingerprint; identification; identity; palm; recognition; user; vein,266665686
+generative_ai,72,,0,and; bridge; concrete; construction; crack; damage; detection; fracture; image; pavement,266665686
+generative_ai,73,,0,and; animal; bird; chicken; cow; livestock; milk; monitoring; pet; pig,266665686
+generative_ai,74,,0,computing; deep; distributed; gradient; learning; model; node; nodes; parameter; training,266665686
+generative_ai,75,,0,and; band; classification; features; hyperspectral; image; multispectral; spatial; spectral; spectrum,266665686
+generative_ai,76,,0,an; control; information; intelligence; interaction; of; robot; robots; the; to,266665686
+generative_ai,77,,0,associated; device; for; may; more; one; or; the; to; user,266665686
+generative_ai,78,,0,aerial; aircraft; and; flight; path; planning; task; the; unmanned; vehicle,266665686
+generative_ai,79,,0,case; cases; code; of; program; software; test; testing; the; to,266665686
+generative_ai,80,,0,and; array; detection; echo; millimeter; radar; signal; target; the; wave,266665686
+generative_ai,81,,0,abnormal; account; data; fraud; fraudulent; payment; the; to; transaction; transactions,266665686
+generative_ai,82,,0,advertisement; customer; data; for; information; product; sales; the; to; user,266665686
+vision,6,detection; face; image; recognition,4,detection; expression; face; facial; feature; human; image; living; recognition; the,266665686
+vision,23,detection; image; object,3,and; detected; detection; feature; image; network; object; target; the; to,266665686
+vision,51,detection; object; video,3,and; detection; frame; object; position; target; the; track; tracking; video,266665686
+vision,2,image; object,2,an; first; generation; image; images; object; of; processing; the; to,266665686
+vision,8,detection; image,2,and; defect; defects; detection; image; inspection; of; surface; the; welding,266665686
+vision,12,image; video,2,and; frame; frames; image; in; of; target; the; to; video,266665686
+vision,21,image; recognition,2,character; characters; document; handwriting; image; license; plate; recognition; text; the,266665686
+vision,28,detection; image,2,and; detection; fish; image; network; sar; ship; target; the; underwater,266665686
+vision,39,image; segmentation,2,feature; image; map; network; saliency; segmentation; segmented; semantic; the; to,266665686
+vision,40,image; recognition,2,classification; feature; image; images; network; neural; recognition; sample; the; training,266665686
+vision,46,camera; image,2,3d; camera; depth; estimation; image; pose; scene; the; threedimensional; view,266665686
+vision,48,recognition; video,2,action; behavior; body; human; motion; recognition; sequence; skeleton; the; video,266665686
+vision,49,detection; image,2,and; detection; image; lane; license; plate; road; the; traffic; vehicle,266665686
+vision,55,detection; image,2,and; cigarette; detection; fire; firefighting; flame; forest; image; smoke; smoking,266665686
+vision,56,image; segmentation,2,and; brain; endoscope; image; images; medical; network; segmentation; the; tumor,266665686
+vision,58,detection; image,2,and; change; detection; feature; fusion; image; module; network; remote; sensing,266665686
+vision,64,image; segmentation,2,artery; blood; carotid; fundus; image; plaque; retina; retinal; segmentation; vessel,266665686
+vision,66,image; segmentation,2,and; chest; ct; image; liver; lung; nodule; pulmonary; segmentation; xray,266665686
+vision,72,detection; image,2,and; bridge; concrete; construction; crack; damage; detection; fracture; image; pavement,266665686
+vision,9,image,1,agricultural; and; crop; disease; growth; image; insect; pest; plant; the,266665686
+vision,18,detection,1,attack; data; detection; flow; intrusion; malicious; network; security; threat; vulnerability,266665686
+vision,29,detection,1,crowd; detection; feature; features; gait; network; pedestrian; pedestrians; reidentification; rerecognition,266665686
+vision,32,detection,1,abnormal; abnormality; an; anomaly; data; detection; log; of; the; time,266665686
+vision,33,segmentation,1,and; cloud; feature; laser; map; point; points; segmentation; the; threedimensional,266665686
+vision,42,image,1,an; and; defogging; enhancement; image; images; network; quality; restoration; the,266665686
+vision,44,recognition,1,entities; entity; extraction; named; recognition; relation; sentence; text; vector; word,266665686
+vision,50,image,1,ct; denoising; image; images; imaging; magnetic; network; noise; reconstruction; resonance,266665686
+vision,60,image,1,and; highresolution; image; images; lowresolution; network; reconstruction; resolution; superresolution; the,266665686
+vision,69,image,1,cancer; cell; cells; cervical; classification; image; images; of; pathological; tumor,266665686
+vision,71,recognition,1,authentication; biometric; finger; fingerprint; identification; identity; palm; recognition; user; vein,266665686
+vision,75,image,1,and; band; classification; features; hyperspectral; image; multispectral; spatial; spectral; spectrum,266665686
+vision,80,detection,1,and; array; detection; echo; millimeter; radar; signal; target; the; wave,266665686
+vision,0,,0,and; bearing; data; diagnosis; equipment; fault; faults; maintenance; the; vibration,266665686
+vision,1,,0,data; first; for; learning; machine; model; of; one; to; training,266665686
+vision,3,,0,bit; circuit; first; gate; quantum; qubit; qubits; second; state; superconducting,266665686
+vision,4,,0,and; data; drilling; gas; geological; of; pipeline; prediction; rock; the,266665686
+vision,5,,0,and; concentration; data; model; monitoring; pollution; prediction; quality; the; water,266665686
+vision,7,,0,acoustic; audio; music; signal; sound; speaker; speech; the; to; voice,266665686
+vision,10,,0,document; language; sentence; text; the; to; translation; vector; word; words,266665686
+vision,11,,0,client; data; federal; learning; local; model; privacy; server; the; training,266665686
+vision,13,,0,driver; driving; information; of; state; the; to; track; vehicle; vehicles,266665686
+vision,14,,0,content; information; preference; recommendation; recommended; recommending; the; to; user; users,266665686
+vision,15,,0,and; clinical; data; diagnosis; disease; for; health; medical; patient; treatment,266665686
+vision,16,,0,answer; answers; knowledge; language; query; question; questionanswering; questions; search; text,266665686
+vision,17,,0,conversation; customer; dialogue; information; intention; language; service; text; to; user,266665686
+vision,19,,0,and; body; gesture; hand; human; key; motion; point; posture; the,266665686
+vision,20,,0,and; chinese; compound; drug; medicine; molecular; molecule; prediction; protein; sequence,266665686
+vision,22,,0,cloud; computing; edge; resource; resources; scheduling; server; service; task; the,266665686
+vision,24,,0,consumption; data; electric; electricity; energy; historical; load; model; power; prediction,266665686
+vision,25,,0,analysis; and; comment; emotion; opinion; public; sentiment; text; the; word,266665686
+vision,26,,0,and; base; data; entities; entity; graph; knowledge; relation; the; to,266665686
+vision,27,,0,action; agent; decision; environment; learning; policy; reinforcement; reward; state; strategy,266665686
+vision,30,,0,battery; charging; electric; ion; lithium; of; pile; soc; the; vehicle,266665686
+vision,31,,0,distribution; energy; grid; optimal; optimization; power; scheduling; storage; supply; system,266665686
+vision,34,,0,assessment; credit; data; enterprise; financial; information; insurance; of; risk; the,266665686
+vision,35,,0,data; distribution; electric; equipment; fault; grid; line; operation; power; system,266665686
+vision,36,,0,algorithm; fitness; genetic; of; optimal; optimization; particle; population; scheduling; solution,266665686
+vision,37,,0,an; apparatus; data; first; information; of; one; plurality; processing; unit,266665686
+vision,38,,0,air; and; conditioner; control; cooling; heat; of; temperature; the; thermal,266665686
+vision,41,,0,compression; layer; model; network; neural; of; pruning; quantization; the; weight,266665686
+vision,43,,0,each; graph; network; neural; node; nodes; of; social; structure; the,266665686
+vision,45,,0,and; control; data; flow; network; prediction; road; the; time; traffic,266665686
+vision,47,,0,and; data; energy; generation; panel; photovoltaic; power; prediction; solar; station,266665686
+vision,52,,0,circuit; electrode; input; memristor; neuromorphic; neuron; neurons; signal; synapse; synaptic,266665686
+vision,53,,0,accelerator; calculation; convolution; convolutional; hardware; input; layer; matrix; neural; operation,266665686
+vision,54,,0,design; material; of; optimization; parameter; parameters; prediction; process; production; the,266665686
+vision,57,,0,and; cooking; food; kitchen; materials; meal; of; tea; the; to,266665686
+vision,59,,0,algorithm; ant; delivery; goods; logistics; path; planning; scheduling; transportation; warehouse,266665686
+vision,61,,0,base; channel; communication; first; network; positioning; radio; station; ue; wireless,266665686
+vision,62,,0,and; data; generator; of; power; prediction; speed; the; turbine; wind,266665686
+vision,63,,0,and; brain; eeg; electrical; electroencephalogram; emotion; signal; signals; stimulation; the,266665686
+vision,65,,0,channel; communication; frequency; interference; modulation; network; neural; signal; signals; spectrum,266665686
+vision,67,,0,data; model; of; predicted; prediction; sequence; series; the; time; timeseries,266665686
+vision,68,,0,blood; cardiac; ecg; electrocardiogram; electrocardiosignal; electrocardiosignals; heart; physiological; pressure; signal,266665686
+vision,70,,0,circuit; device; first; input; memory; operation; plurality; processing; second; unit,266665686
+vision,73,,0,and; animal; bird; chicken; cow; livestock; milk; monitoring; pet; pig,266665686
+vision,74,,0,computing; deep; distributed; gradient; learning; model; node; nodes; parameter; training,266665686
+vision,76,,0,an; control; information; intelligence; interaction; of; robot; robots; the; to,266665686
+vision,77,,0,associated; device; for; may; more; one; or; the; to; user,266665686
+vision,78,,0,aerial; aircraft; and; flight; path; planning; task; the; unmanned; vehicle,266665686
+vision,79,,0,case; cases; code; of; program; software; test; testing; the; to,266665686
+vision,81,,0,abnormal; account; data; fraud; fraudulent; payment; the; to; transaction; transactions,266665686
+vision,82,,0,advertisement; customer; data; for; information; product; sales; the; to; user,266665686
+generative_ai,14,language; text,2,answer; answers; knowledge; language; query; question; questionanswering; questions; search; text,266665687
+generative_ai,18,language; text,2,document; language; sentence; text; the; to; translation; vector; word; words,266665687
+generative_ai,28,language; text,2,chat; conversation; dialogue; information; intention; language; text; the; to; user,266665687
+generative_ai,21,text,1,character; characters; document; handwriting; image; license; plate; recognition; text; the,266665687
+generative_ai,26,text,1,analysis; and; comment; emotion; opinion; public; sentiment; text; word; words,266665687
+generative_ai,29,generation,1,an; first; generation; image; images; processing; style; target; the; to,266665687
+generative_ai,37,semantic,1,and; feature; features; fusion; image; network; segmentation; semantic; the; to,266665687
+generative_ai,48,generation,1,and; data; generation; panel; photovoltaic; power; prediction; solar; station; the,266665687
+generative_ai,51,text,1,entities; entity; extraction; named; relation; relationship; sentence; text; vector; word,266665687
+generative_ai,74,language,1,gesture; gestures; hand; image; key; language; point; recognition; sign; touch,266665687
+generative_ai,0,,0,content; for; information; of; product; recommendation; the; to; user; users,266665687
+generative_ai,1,,0,and; bearing; data; diagnosis; equipment; fault; maintenance; of; the; vibration,266665687
+generative_ai,2,,0,and; credit; data; financial; information; payment; risk; the; to; transaction,266665687
+generative_ai,3,,0,circuit; first; gate; of; quantum; qubit; qubits; second; state; superconducting,266665687
+generative_ai,4,,0,and; data; drilling; gas; geological; of; prediction; rock; the; well,266665687
+generative_ai,5,,0,and; data; model; monitoring; of; pollution; prediction; quality; the; water,266665687
+generative_ai,6,,0,detection; expression; face; facial; feature; human; image; living; recognition; the,266665687
+generative_ai,7,,0,acoustic; audio; music; signal; sound; speaker; speech; the; to; voice,266665687
+generative_ai,8,,0,and; defect; defects; detection; image; inspection; of; surface; the; welding,266665687
+generative_ai,9,,0,client; data; encryption; federal; learning; local; model; privacy; server; training,266665687
+generative_ai,10,,0,data; first; for; learning; machine; model; of; set; the; training,266665687
+generative_ai,11,,0,and; frame; frames; image; in; of; target; the; to; video,266665687
+generative_ai,12,,0,and; bone; ct; image; images; lung; medical; segmentation; the; xray,266665687
+generative_ai,13,,0,and; clinical; data; diagnosis; disease; for; health; medical; patient; treatment,266665687
+generative_ai,15,,0,attack; data; detection; flow; intrusion; malicious; network; security; the; threat,266665687
+generative_ai,16,,0,driver; driving; for; information; of; the; to; track; vehicle; vehicles,266665687
+generative_ai,17,,0,and; detected; detection; feature; image; network; object; target; the; to,266665687
+generative_ai,19,,0,action; behavior; body; human; motion; posture; recognition; skeleton; the; video,266665687
+generative_ai,20,,0,aerial; algorithm; and; logistics; optimization; path; planning; the; unmanned; vehicle,266665687
+generative_ai,22,,0,action; agent; environment; game; learning; policy; reinforcement; reward; state; strategy,266665687
+generative_ai,23,,0,air; and; conditioner; control; cooling; heat; of; temperature; the; thermal,266665687
+generative_ai,24,,0,and; chinese; compound; drug; medicine; molecular; molecule; prediction; protein; sequence,266665687
+generative_ai,25,,0,and; data; distribution; electric; equipment; fault; grid; line; operation; power,266665687
+generative_ai,27,,0,accelerator; calculation; convolution; hardware; input; layer; network; neural; operation; processing,266665687
+generative_ai,30,,0,and; data; entities; entity; graph; knowledge; of; relation; the; to,266665687
+generative_ai,31,,0,distribution; energy; grid; optimal; optimization; power; scheduling; storage; supply; system,266665687
+generative_ai,32,,0,consumption; data; electric; electricity; energy; historical; load; model; power; prediction,266665687
+generative_ai,33,,0,crowd; detection; feature; features; gait; network; pedestrian; pedestrians; reidentification; rerecognition,266665687
+generative_ai,34,,0,and; detection; fish; image; marine; ship; sonar; target; the; underwater,266665687
+generative_ai,35,,0,cloud; computing; edge; resource; resources; scheduling; server; service; task; the,266665687
+generative_ai,36,,0,battery; charging; electric; ion; lithium; of; pile; soc; station; vehicle,266665687
+generative_ai,38,,0,algorithm; fitness; genetic; of; optimal; optimization; particle; population; scheduling; solution,266665687
+generative_ai,39,,0,and; cloud; laser; map; point; points; segmentation; target; the; threedimensional,266665687
+generative_ai,40,,0,abnormal; abnormality; an; anomaly; data; detection; log; of; the; time,266665687
+generative_ai,41,,0,and; congestion; control; data; flow; network; prediction; road; time; traffic,266665687
+generative_ai,42,,0,and; detection; disease; fruit; image; insect; leaf; pest; plant; tea,266665687
+generative_ai,43,,0,each; graph; network; neural; node; nodes; of; structure; the; to,266665687
+generative_ai,44,,0,detection; image; lane; license; parking; plate; road; the; traffic; vehicle,266665687
+generative_ai,45,,0,compression; layer; model; network; neural; of; pruning; quantization; the; weight,266665687
+generative_ai,46,,0,and; defogging; denoising; enhancement; image; images; network; noise; restoration; the,266665687
+generative_ai,47,,0,an; apparatus; data; device; first; information; one; plurality; processing; unit,266665687
+generative_ai,49,,0,classification; feature; image; images; network; object; recognition; the; to; training,266665687
+generative_ai,50,,0,3d; camera; depth; estimation; image; object; pose; reconstruction; threedimensional; view,266665687
+generative_ai,52,,0,and; change; detection; feature; features; fusion; image; images; remote; sensing,266665687
+generative_ai,53,,0,and; cigarette; detection; fire; firefighting; flame; forest; gas; smoke; smoking,266665687
+generative_ai,54,,0,circuit; electrode; input; memristor; neuromorphic; neuron; neurons; signal; synapse; synaptic,266665687
+generative_ai,55,,0,base; channel; communication; device; first; network; radio; station; ue; wireless,266665687
+generative_ai,56,,0,and; detection; image; millimeter; network; radar; sar; signal; target; the,266665687
+generative_ai,57,,0,and; brain; eeg; electrical; electroencephalogram; emotion; signal; signals; sleep; the,266665687
+generative_ai,58,,0,detection; frame; object; position; target; the; track; tracked; tracking; video,266665687
+generative_ai,59,,0,and; highresolution; image; images; lowresolution; network; reconstruction; resolution; superresolution; the,266665687
+generative_ai,60,,0,data; of; predicted; prediction; sequence; series; the; time; timeseries; to,266665687
+generative_ai,61,,0,an; display; for; interaction; of; reality; teaching; the; user; virtual,266665687
+generative_ai,62,,0,artery; blood; carotid; fundus; image; plaque; retina; retinal; segmentation; vessel,266665687
+generative_ai,63,,0,channel; communication; frequency; interference; modulation; network; neural; signal; signals; spectrum,266665687
+generative_ai,64,,0,and; cooking; food; information; material; materials; meal; of; the; to,266665687
+generative_ai,65,,0,and; bridge; concrete; crack; damage; detection; fracture; image; pavement; the,266665687
+generative_ai,66,,0,design; material; of; optimization; parameter; parameters; process; production; steel; the,266665687
+generative_ai,67,,0,and; data; generator; of; power; prediction; speed; the; turbine; wind,266665687
+generative_ai,68,,0,and; animal; bird; cow; egg; identification; livestock; milk; pet; pig,266665687
+generative_ai,69,,0,authentication; biometric; finger; fingerprint; identification; identity; palm; the; user; vein,266665687
+generative_ai,70,,0,agricultural; and; crop; crops; growth; irrigation; plant; planting; soil; yield,266665687
+generative_ai,71,,0,and; band; classification; features; hyperspectral; image; multispectral; spatial; spectral; spectrum,266665687
+generative_ai,72,,0,computing; deep; distributed; gradient; learning; model; node; nodes; the; training,266665687
+generative_ai,73,,0,and; detection; image; inspection; is; monitoring; of; personnel; safety; the,266665687
+generative_ai,75,,0,ct; image; images; imaging; lowdose; magnetic; network; projection; reconstruction; resonance,266665687
+generative_ai,76,,0,code; codes; compliance; contract; program; rule; software; source; the; vulnerability,266665687
+generative_ai,77,,0,breast; cancer; cell; cells; cervical; classification; image; images; pathological; tumor,266665687
+generative_ai,78,,0,blood; cardiac; ecg; electrocardiogram; electrocardiosignal; electrocardiosignals; heart; pressure; pulse; signal,266665687
+generative_ai,79,,0,and; control; information; interaction; of; robot; robots; system; the; to,266665687
+generative_ai,80,,0,and; case; cases; for; of; software; test; testing; the; to,266665687
+generative_ai,81,,0,cell; circuit; device; first; includes; memory; of; one; plurality; second,266665687
+vision,6,detection; face; image; recognition,4,detection; expression; face; facial; feature; human; image; living; recognition; the,266665687
+vision,17,detection; image; object,3,and; detected; detection; feature; image; network; object; target; the; to,266665687
+vision,49,image; object; recognition,3,classification; feature; image; images; network; object; recognition; the; to; training,266665687
+vision,50,camera; image; object,3,3d; camera; depth; estimation; image; object; pose; reconstruction; threedimensional; view,266665687
+vision,58,detection; object; video,3,detection; frame; object; position; target; the; track; tracked; tracking; video,266665687
+vision,8,detection; image,2,and; defect; defects; detection; image; inspection; of; surface; the; welding,266665687
+vision,11,image; video,2,and; frame; frames; image; in; of; target; the; to; video,266665687
+vision,12,image; segmentation,2,and; bone; ct; image; images; lung; medical; segmentation; the; xray,266665687
+vision,19,recognition; video,2,action; behavior; body; human; motion; posture; recognition; skeleton; the; video,266665687
+vision,21,image; recognition,2,character; characters; document; handwriting; image; license; plate; recognition; text; the,266665687
+vision,34,detection; image,2,and; detection; fish; image; marine; ship; sonar; target; the; underwater,266665687
+vision,37,image; segmentation,2,and; feature; features; fusion; image; network; segmentation; semantic; the; to,266665687
+vision,42,detection; image,2,and; detection; disease; fruit; image; insect; leaf; pest; plant; tea,266665687
+vision,44,detection; image,2,detection; image; lane; license; parking; plate; road; the; traffic; vehicle,266665687
+vision,52,detection; image,2,and; change; detection; feature; features; fusion; image; images; remote; sensing,266665687
+vision,56,detection; image,2,and; detection; image; millimeter; network; radar; sar; signal; target; the,266665687
+vision,62,image; segmentation,2,artery; blood; carotid; fundus; image; plaque; retina; retinal; segmentation; vessel,266665687
+vision,65,detection; image,2,and; bridge; concrete; crack; damage; detection; fracture; image; pavement; the,266665687
+vision,73,detection; image,2,and; detection; image; inspection; is; monitoring; of; personnel; safety; the,266665687
+vision,74,image; recognition,2,gesture; gestures; hand; image; key; language; point; recognition; sign; touch,266665687
+vision,15,detection,1,attack; data; detection; flow; intrusion; malicious; network; security; the; threat,266665687
+vision,29,image,1,an; first; generation; image; images; processing; style; target; the; to,266665687
+vision,33,detection,1,crowd; detection; feature; features; gait; network; pedestrian; pedestrians; reidentification; rerecognition,266665687
+vision,39,segmentation,1,and; cloud; laser; map; point; points; segmentation; target; the; threedimensional,266665687
+vision,40,detection,1,abnormal; abnormality; an; anomaly; data; detection; log; of; the; time,266665687
+vision,46,image,1,and; defogging; denoising; enhancement; image; images; network; noise; restoration; the,266665687
+vision,53,detection,1,and; cigarette; detection; fire; firefighting; flame; forest; gas; smoke; smoking,266665687
+vision,59,image,1,and; highresolution; image; images; lowresolution; network; reconstruction; resolution; superresolution; the,266665687
+vision,71,image,1,and; band; classification; features; hyperspectral; image; multispectral; spatial; spectral; spectrum,266665687
+vision,75,image,1,ct; image; images; imaging; lowdose; magnetic; network; projection; reconstruction; resonance,266665687
+vision,77,image,1,breast; cancer; cell; cells; cervical; classification; image; images; pathological; tumor,266665687
+vision,0,,0,content; for; information; of; product; recommendation; the; to; user; users,266665687
+vision,1,,0,and; bearing; data; diagnosis; equipment; fault; maintenance; of; the; vibration,266665687
+vision,2,,0,and; credit; data; financial; information; payment; risk; the; to; transaction,266665687
+vision,3,,0,circuit; first; gate; of; quantum; qubit; qubits; second; state; superconducting,266665687
+vision,4,,0,and; data; drilling; gas; geological; of; prediction; rock; the; well,266665687
+vision,5,,0,and; data; model; monitoring; of; pollution; prediction; quality; the; water,266665687
+vision,7,,0,acoustic; audio; music; signal; sound; speaker; speech; the; to; voice,266665687
+vision,9,,0,client; data; encryption; federal; learning; local; model; privacy; server; training,266665687
+vision,10,,0,data; first; for; learning; machine; model; of; set; the; training,266665687
+vision,13,,0,and; clinical; data; diagnosis; disease; for; health; medical; patient; treatment,266665687
+vision,14,,0,answer; answers; knowledge; language; query; question; questionanswering; questions; search; text,266665687
+vision,16,,0,driver; driving; for; information; of; the; to; track; vehicle; vehicles,266665687
+vision,18,,0,document; language; sentence; text; the; to; translation; vector; word; words,266665687
+vision,20,,0,aerial; algorithm; and; logistics; optimization; path; planning; the; unmanned; vehicle,266665687
+vision,22,,0,action; agent; environment; game; learning; policy; reinforcement; reward; state; strategy,266665687
+vision,23,,0,air; and; conditioner; control; cooling; heat; of; temperature; the; thermal,266665687
+vision,24,,0,and; chinese; compound; drug; medicine; molecular; molecule; prediction; protein; sequence,266665687
+vision,25,,0,and; data; distribution; electric; equipment; fault; grid; line; operation; power,266665687
+vision,26,,0,analysis; and; comment; emotion; opinion; public; sentiment; text; word; words,266665687
+vision,27,,0,accelerator; calculation; convolution; hardware; input; layer; network; neural; operation; processing,266665687
+vision,28,,0,chat; conversation; dialogue; information; intention; language; text; the; to; user,266665687
+vision,30,,0,and; data; entities; entity; graph; knowledge; of; relation; the; to,266665687
+vision,31,,0,distribution; energy; grid; optimal; optimization; power; scheduling; storage; supply; system,266665687
+vision,32,,0,consumption; data; electric; electricity; energy; historical; load; model; power; prediction,266665687
+vision,35,,0,cloud; computing; edge; resource; resources; scheduling; server; service; task; the,266665687
+vision,36,,0,battery; charging; electric; ion; lithium; of; pile; soc; station; vehicle,266665687
+vision,38,,0,algorithm; fitness; genetic; of; optimal; optimization; particle; population; scheduling; solution,266665687
+vision,41,,0,and; congestion; control; data; flow; network; prediction; road; time; traffic,266665687
+vision,43,,0,each; graph; network; neural; node; nodes; of; structure; the; to,266665687
+vision,45,,0,compression; layer; model; network; neural; of; pruning; quantization; the; weight,266665687
+vision,47,,0,an; apparatus; data; device; first; information; one; plurality; processing; unit,266665687
+vision,48,,0,and; data; generation; panel; photovoltaic; power; prediction; solar; station; the,266665687
+vision,51,,0,entities; entity; extraction; named; relation; relationship; sentence; text; vector; word,266665687
+vision,54,,0,circuit; electrode; input; memristor; neuromorphic; neuron; neurons; signal; synapse; synaptic,266665687
+vision,55,,0,base; channel; communication; device; first; network; radio; station; ue; wireless,266665687
+vision,57,,0,and; brain; eeg; electrical; electroencephalogram; emotion; signal; signals; sleep; the,266665687
+vision,60,,0,data; of; predicted; prediction; sequence; series; the; time; timeseries; to,266665687
+vision,61,,0,an; display; for; interaction; of; reality; teaching; the; user; virtual,266665687
+vision,63,,0,channel; communication; frequency; interference; modulation; network; neural; signal; signals; spectrum,266665687
+vision,64,,0,and; cooking; food; information; material; materials; meal; of; the; to,266665687
+vision,66,,0,design; material; of; optimization; parameter; parameters; process; production; steel; the,266665687
+vision,67,,0,and; data; generator; of; power; prediction; speed; the; turbine; wind,266665687
+vision,68,,0,and; animal; bird; cow; egg; identification; livestock; milk; pet; pig,266665687
+vision,69,,0,authentication; biometric; finger; fingerprint; identification; identity; palm; the; user; vein,266665687
+vision,70,,0,agricultural; and; crop; crops; growth; irrigation; plant; planting; soil; yield,266665687
+vision,72,,0,computing; deep; distributed; gradient; learning; model; node; nodes; the; training,266665687
+vision,76,,0,code; codes; compliance; contract; program; rule; software; source; the; vulnerability,266665687
+vision,78,,0,blood; cardiac; ecg; electrocardiogram; electrocardiosignal; electrocardiosignals; heart; pressure; pulse; signal,266665687
+vision,79,,0,and; control; information; interaction; of; robot; robots; system; the; to,266665687
+vision,80,,0,and; case; cases; for; of; software; test; testing; the; to,266665687
+vision,81,,0,cell; circuit; device; first; includes; memory; of; one; plurality; second,266665687
+generative_ai,15,language; text,2,document; language; sentence; text; the; to; translation; vector; word; words,266665688
+generative_ai,16,language; text,2,answer; answers; knowledge; language; query; question; questionanswering; questions; search; text,266665688
+generative_ai,19,language; text,2,chat; conversation; dialogue; information; intention; language; text; the; to; user,266665688
+generative_ai,9,generation,1,an; first; generation; image; images; of; processing; style; the; to,266665688
+generative_ai,26,text,1,character; characters; handwriting; handwritten; image; license; plate; recognition; text; the,266665688
+generative_ai,29,text,1,analysis; and; comment; emotion; opinion; public; sentiment; text; word; words,266665688
+generative_ai,34,semantic,1,and; feature; fusion; image; map; network; segmentation; semantic; the; to,266665688
+generative_ai,51,generation,1,and; data; generation; panel; photovoltaic; power; prediction; solar; station; the,266665688
+generative_ai,52,text,1,entities; entity; extraction; named; recognition; relation; sentence; text; vector; word,266665688
+generative_ai,56,transformer,1,detection; diagnosis; discharge; equipment; fault; line; power; substation; transformer; transmission,266665688
+generative_ai,0,,0,content; for; information; of; product; recommendation; the; to; user; users,266665688
+generative_ai,1,,0,data; for; learning; machine; model; of; one; the; to; training,266665688
+generative_ai,2,,0,and; bearing; data; diagnosis; equipment; fault; life; maintenance; of; vibration,266665688
+generative_ai,3,,0,detection; expression; face; facial; feature; human; image; living; recognition; the,266665688
+generative_ai,4,,0,and; defect; defects; detection; image; inspection; of; surface; the; welding,266665688
+generative_ai,5,,0,and; data; drilling; gas; geological; pipeline; prediction; rock; the; well,266665688
+generative_ai,6,,0,acoustic; audio; music; signal; sound; speaker; speech; the; to; voice,266665688
+generative_ai,7,,0,and; concentration; data; model; monitoring; pollution; prediction; quality; the; water,266665688
+generative_ai,8,,0,agricultural; and; crop; disease; growth; insect; leaf; pest; plant; tea,266665688
+generative_ai,10,,0,and; frame; frames; image; in; method; of; the; to; video,266665688
+generative_ai,11,,0,client; data; federal; gradient; learning; local; model; privacy; server; training,266665688
+generative_ai,12,,0,attack; data; detection; flow; intrusion; malicious; network; security; the; threat,266665688
+generative_ai,13,,0,aerial; algorithm; and; flight; logistics; path; planning; the; unmanned; vehicle,266665688
+generative_ai,14,,0,driver; driving; information; of; state; the; to; track; vehicle; vehicles,266665688
+generative_ai,17,,0,and; clinical; data; diagnosis; disease; for; health; medical; patient; treatment,266665688
+generative_ai,18,,0,bit; circuit; classical; computer; computing; gate; quantum; qubit; qubits; state,266665688
+generative_ai,20,,0,detection; image; lane; license; parking; plate; road; the; traffic; vehicle,266665688
+generative_ai,21,,0,and; detection; fish; image; network; sar; ship; target; the; underwater,266665688
+generative_ai,22,,0,action; agent; environment; game; learning; policy; reinforcement; reward; state; strategy,266665688
+generative_ai,23,,0,consumption; data; electric; electricity; energy; historical; load; model; power; prediction,266665688
+generative_ai,24,,0,and; chinese; compound; drug; medicine; molecular; molecule; prediction; protein; sequence,266665688
+generative_ai,25,,0,algorithm; fitness; genetic; optimal; optimization; particle; population; scheduling; solution; the,266665688
+generative_ai,27,,0,distribution; energy; grid; optimal; optimization; power; scheduling; storage; supply; system,266665688
+generative_ai,28,,0,action; behavior; body; human; key; motion; posture; recognition; skeleton; video,266665688
+generative_ai,30,,0,and; detected; detection; feature; image; network; object; small; target; the,266665688
+generative_ai,31,,0,and; base; data; entities; entity; graph; knowledge; relation; the; to,266665688
+generative_ai,32,,0,and; data; distribution; electric; equipment; fault; grid; operation; power; system,266665688
+generative_ai,33,,0,crowd; detection; feature; features; gait; network; pedestrian; pedestrians; reidentification; rerecognition,266665688
+generative_ai,35,,0,battery; charge; charging; electric; ion; lithium; of; pile; soc; station,266665688
+generative_ai,36,,0,allocation; cloud; computing; edge; resource; scheduling; server; service; task; the,266665688
+generative_ai,37,,0,and; assessment; credit; data; enterprise; financial; information; insurance; risk; the,266665688
+generative_ai,38,,0,air; and; control; cooling; heat; heating; of; temperature; the; thermal,266665688
+generative_ai,39,,0,and; design; material; model; of; optimization; parameter; parameters; process; the,266665688
+generative_ai,40,,0,abnormal; abnormality; an; anomaly; data; detection; log; of; the; time,266665688
+generative_ai,41,,0,classification; feature; image; images; network; object; recognition; sample; the; training,266665688
+generative_ai,42,,0,an; apparatus; configured; device; first; information; one; plurality; second; unit,266665688
+generative_ai,43,,0,accelerator; calculation; convolution; hardware; input; memory; network; neural; operation; processing,266665688
+generative_ai,44,,0,and; exercise; gesture; hand; motion; recognition; rehabilitation; the; touch; user,266665688
+generative_ai,45,,0,and; congestion; control; data; flow; network; prediction; road; time; traffic,266665688
+generative_ai,46,,0,and; cell; classification; diagnosis; image; images; medical; of; pathological; the,266665688
+generative_ai,47,,0,and; cloud; data; laser; map; point; points; segmentation; the; threedimensional,266665688
+generative_ai,48,,0,compression; layer; model; network; neural; of; pruning; quantization; training; weight,266665688
+generative_ai,49,,0,and; change; detection; feature; fusion; image; images; network; remote; sensing,266665688
+generative_ai,50,,0,each; graph; network; neural; node; nodes; of; structure; the; to,266665688
+generative_ai,53,,0,circuit; electrode; input; memristor; neuromorphic; neuron; neurons; signal; synapse; synaptic,266665688
+generative_ai,54,,0,detection; frame; object; position; positioning; target; the; track; tracking; video,266665688
+generative_ai,55,,0,and; cigarette; combustion; detection; fire; firefighting; flame; forest; smoke; smoking,266665688
+generative_ai,57,,0,and; brain; image; images; liver; medical; network; segmentation; segmented; tumor,266665688
+generative_ai,58,,0,channel; communication; frequency; interference; modulation; network; radio; signal; signals; spectrum,266665688
+generative_ai,59,,0,and; highresolution; image; images; lowresolution; network; reconstruction; resolution; superresolution; the,266665688
+generative_ai,60,,0,artery; blood; carotid; fundus; image; plaque; retina; retinal; segmentation; vessel,266665688
+generative_ai,61,,0,and; brain; classification; eeg; electrical; electroencephalogram; emotion; signal; signals; stimulation,266665688
+generative_ai,62,,0,data; model; of; predicted; prediction; sequence; series; the; time; timeseries,266665688
+generative_ai,63,,0,and; data; generator; plant; power; prediction; speed; the; turbine; wind,266665688
+generative_ai,64,,0,an; and; control; interaction; of; robot; robots; system; the; to,266665688
+generative_ai,65,,0,and; cooking; dish; food; kitchen; materials; meal; of; shelf; the,266665688
+generative_ai,66,,0,authentication; biometric; card; finger; fingerprint; identification; identity; palm; user; vein,266665688
+generative_ai,67,,0,and; band; classification; features; hyperspectral; image; multispectral; spatial; spectral; spectrum,266665688
+generative_ai,68,,0,base; channel; communication; device; first; network; radio; station; ue; wireless,266665688
+generative_ai,69,,0,blood; cardiac; ecg; electrocardiogram; electrocardiosignal; electrocardiosignals; heart; physiological; pressure; signal,266665688
+generative_ai,70,,0,and; bridge; concrete; crack; cracks; damage; detection; image; pavement; structure,266665688
+generative_ai,71,,0,animal; bird; chicken; cow; egg; livestock; milk; monitoring; pet; pig,266665688
+generative_ai,72,,0,ct; image; images; imaging; magnetic; network; projection; reconstruction; resonance; the,266665688
+generative_ai,73,,0,array; cell; circuit; first; includes; memory; one; operation; plurality; second,266665688
+generative_ai,74,,0,3d; camera; depth; estimation; image; map; object; pose; scene; threedimensional,266665688
+generative_ai,75,,0,and; defogging; denoising; enhancement; image; network; noise; reconstruction; restoration; the,266665688
+generative_ai,76,,0,and; belt; detection; image; is; monitoring; of; personnel; safety; the,266665688
+generative_ai,77,,0,an; beam; cable; fiber; laser; light; neural; optical; signal; the,266665688
+generative_ai,78,,0,case; cases; code; of; program; software; test; testing; the; to,266665688
+generative_ai,79,,0,abnormal; account; data; fraud; fraudulent; payment; the; to; transaction; transactions,266665688
+generative_ai,80,,0,chip; first; josephson; layer; microwave; quantum; qubit; second; substrate; superconducting,266665688
+generative_ai,81,,0,bone; chest; ct; image; images; lung; nodule; pulmonary; segmentation; xray,266665688
+generative_ai,82,,0,data; device; disclosure; first; information; of; one; the; to; user,266665688
+generative_ai,83,,0,and; array; detection; echo; millimeter; radar; signal; target; the; wave,266665688
+vision,3,detection; face; image; recognition,4,detection; expression; face; facial; feature; human; image; living; recognition; the,266665688
+vision,30,detection; image; object,3,and; detected; detection; feature; image; network; object; small; target; the,266665688
+vision,41,image; object; recognition,3,classification; feature; image; images; network; object; recognition; sample; the; training,266665688
+vision,54,detection; object; video,3,detection; frame; object; position; positioning; target; the; track; tracking; video,266665688
+vision,74,camera; image; object,3,3d; camera; depth; estimation; image; map; object; pose; scene; threedimensional,266665688
+vision,4,detection; image,2,and; defect; defects; detection; image; inspection; of; surface; the; welding,266665688
+vision,10,image; video,2,and; frame; frames; image; in; method; of; the; to; video,266665688
+vision,20,detection; image,2,detection; image; lane; license; parking; plate; road; the; traffic; vehicle,266665688
+vision,21,detection; image,2,and; detection; fish; image; network; sar; ship; target; the; underwater,266665688
+vision,26,image; recognition,2,character; characters; handwriting; handwritten; image; license; plate; recognition; text; the,266665688
+vision,28,recognition; video,2,action; behavior; body; human; key; motion; posture; recognition; skeleton; video,266665688
+vision,34,image; segmentation,2,and; feature; fusion; image; map; network; segmentation; semantic; the; to,266665688
+vision,49,detection; image,2,and; change; detection; feature; fusion; image; images; network; remote; sensing,266665688
+vision,57,image; segmentation,2,and; brain; image; images; liver; medical; network; segmentation; segmented; tumor,266665688
+vision,60,image; segmentation,2,artery; blood; carotid; fundus; image; plaque; retina; retinal; segmentation; vessel,266665688
+vision,70,detection; image,2,and; bridge; concrete; crack; cracks; damage; detection; image; pavement; structure,266665688
+vision,76,detection; image,2,and; belt; detection; image; is; monitoring; of; personnel; safety; the,266665688
+vision,81,image; segmentation,2,bone; chest; ct; image; images; lung; nodule; pulmonary; segmentation; xray,266665688
+vision,9,image,1,an; first; generation; image; images; of; processing; style; the; to,266665688
+vision,12,detection,1,attack; data; detection; flow; intrusion; malicious; network; security; the; threat,266665688
+vision,33,detection,1,crowd; detection; feature; features; gait; network; pedestrian; pedestrians; reidentification; rerecognition,266665688
+vision,40,detection,1,abnormal; abnormality; an; anomaly; data; detection; log; of; the; time,266665688
+vision,44,recognition,1,and; exercise; gesture; hand; motion; recognition; rehabilitation; the; touch; user,266665688
+vision,46,image,1,and; cell; classification; diagnosis; image; images; medical; of; pathological; the,266665688
+vision,47,segmentation,1,and; cloud; data; laser; map; point; points; segmentation; the; threedimensional,266665688
+vision,52,recognition,1,entities; entity; extraction; named; recognition; relation; sentence; text; vector; word,266665688
+vision,55,detection,1,and; cigarette; combustion; detection; fire; firefighting; flame; forest; smoke; smoking,266665688
+vision,56,detection,1,detection; diagnosis; discharge; equipment; fault; line; power; substation; transformer; transmission,266665688
+vision,59,image,1,and; highresolution; image; images; lowresolution; network; reconstruction; resolution; superresolution; the,266665688
+vision,67,image,1,and; band; classification; features; hyperspectral; image; multispectral; spatial; spectral; spectrum,266665688
+vision,72,image,1,ct; image; images; imaging; magnetic; network; projection; reconstruction; resonance; the,266665688
+vision,75,image,1,and; defogging; denoising; enhancement; image; network; noise; reconstruction; restoration; the,266665688
+vision,83,detection,1,and; array; detection; echo; millimeter; radar; signal; target; the; wave,266665688
+vision,0,,0,content; for; information; of; product; recommendation; the; to; user; users,266665688
+vision,1,,0,data; for; learning; machine; model; of; one; the; to; training,266665688
+vision,2,,0,and; bearing; data; diagnosis; equipment; fault; life; maintenance; of; vibration,266665688
+vision,5,,0,and; data; drilling; gas; geological; pipeline; prediction; rock; the; well,266665688
+vision,6,,0,acoustic; audio; music; signal; sound; speaker; speech; the; to; voice,266665688
+vision,7,,0,and; concentration; data; model; monitoring; pollution; prediction; quality; the; water,266665688
+vision,8,,0,agricultural; and; crop; disease; growth; insect; leaf; pest; plant; tea,266665688
+vision,11,,0,client; data; federal; gradient; learning; local; model; privacy; server; training,266665688
+vision,13,,0,aerial; algorithm; and; flight; logistics; path; planning; the; unmanned; vehicle,266665688
+vision,14,,0,driver; driving; information; of; state; the; to; track; vehicle; vehicles,266665688
+vision,15,,0,document; language; sentence; text; the; to; translation; vector; word; words,266665688
+vision,16,,0,answer; answers; knowledge; language; query; question; questionanswering; questions; search; text,266665688
+vision,17,,0,and; clinical; data; diagnosis; disease; for; health; medical; patient; treatment,266665688
+vision,18,,0,bit; circuit; classical; computer; computing; gate; quantum; qubit; qubits; state,266665688
+vision,19,,0,chat; conversation; dialogue; information; intention; language; text; the; to; user,266665688
+vision,22,,0,action; agent; environment; game; learning; policy; reinforcement; reward; state; strategy,266665688
+vision,23,,0,consumption; data; electric; electricity; energy; historical; load; model; power; prediction,266665688
+vision,24,,0,and; chinese; compound; drug; medicine; molecular; molecule; prediction; protein; sequence,266665688
+vision,25,,0,algorithm; fitness; genetic; optimal; optimization; particle; population; scheduling; solution; the,266665688
+vision,27,,0,distribution; energy; grid; optimal; optimization; power; scheduling; storage; supply; system,266665688
+vision,29,,0,analysis; and; comment; emotion; opinion; public; sentiment; text; word; words,266665688
+vision,31,,0,and; base; data; entities; entity; graph; knowledge; relation; the; to,266665688
+vision,32,,0,and; data; distribution; electric; equipment; fault; grid; operation; power; system,266665688
+vision,35,,0,battery; charge; charging; electric; ion; lithium; of; pile; soc; station,266665688
+vision,36,,0,allocation; cloud; computing; edge; resource; scheduling; server; service; task; the,266665688
+vision,37,,0,and; assessment; credit; data; enterprise; financial; information; insurance; risk; the,266665688
+vision,38,,0,air; and; control; cooling; heat; heating; of; temperature; the; thermal,266665688
+vision,39,,0,and; design; material; model; of; optimization; parameter; parameters; process; the,266665688
+vision,42,,0,an; apparatus; configured; device; first; information; one; plurality; second; unit,266665688
+vision,43,,0,accelerator; calculation; convolution; hardware; input; memory; network; neural; operation; processing,266665688
+vision,45,,0,and; congestion; control; data; flow; network; prediction; road; time; traffic,266665688
+vision,48,,0,compression; layer; model; network; neural; of; pruning; quantization; training; weight,266665688
+vision,50,,0,each; graph; network; neural; node; nodes; of; structure; the; to,266665688
+vision,51,,0,and; data; generation; panel; photovoltaic; power; prediction; solar; station; the,266665688
+vision,53,,0,circuit; electrode; input; memristor; neuromorphic; neuron; neurons; signal; synapse; synaptic,266665688
+vision,58,,0,channel; communication; frequency; interference; modulation; network; radio; signal; signals; spectrum,266665688
+vision,61,,0,and; brain; classification; eeg; electrical; electroencephalogram; emotion; signal; signals; stimulation,266665688
+vision,62,,0,data; model; of; predicted; prediction; sequence; series; the; time; timeseries,266665688
+vision,63,,0,and; data; generator; plant; power; prediction; speed; the; turbine; wind,266665688
+vision,64,,0,an; and; control; interaction; of; robot; robots; system; the; to,266665688
+vision,65,,0,and; cooking; dish; food; kitchen; materials; meal; of; shelf; the,266665688
+vision,66,,0,authentication; biometric; card; finger; fingerprint; identification; identity; palm; user; vein,266665688
+vision,68,,0,base; channel; communication; device; first; network; radio; station; ue; wireless,266665688
+vision,69,,0,blood; cardiac; ecg; electrocardiogram; electrocardiosignal; electrocardiosignals; heart; physiological; pressure; signal,266665688
+vision,71,,0,animal; bird; chicken; cow; egg; livestock; milk; monitoring; pet; pig,266665688
+vision,73,,0,array; cell; circuit; first; includes; memory; one; operation; plurality; second,266665688
+vision,77,,0,an; beam; cable; fiber; laser; light; neural; optical; signal; the,266665688
+vision,78,,0,case; cases; code; of; program; software; test; testing; the; to,266665688
+vision,79,,0,abnormal; account; data; fraud; fraudulent; payment; the; to; transaction; transactions,266665688
+vision,80,,0,chip; first; josephson; layer; microwave; quantum; qubit; second; substrate; superconducting,266665688
+vision,82,,0,data; device; disclosure; first; information; of; one; the; to; user,266665688

@@ -1,0 +1,14 @@
+{
+  "annual_change_in_cosine_similarity": 0.006001077415318521,
+  "permutation_p_two_sided": 9.999000099990002e-05,
+  "null_2_5_percentile": -0.0011901440937039367,
+  "null_97_5_percentile": 0.001148904166487161,
+  "observations": 3365,
+  "unique_pairs": 435,
+  "organization_scope": "all",
+  "top_assignees": 30,
+  "end_year": 2025,
+  "g06n_only": false,
+  "cpc_level": "full",
+  "weight_mode": "fractional_family"
+}

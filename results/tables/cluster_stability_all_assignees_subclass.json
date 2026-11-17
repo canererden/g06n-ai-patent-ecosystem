@@ -1,0 +1,7 @@
+{
+  "selected_k": 2,
+  "bootstrap_repetitions_used": 500,
+  "median_adjusted_rand_index": 0.2879404947422181,
+  "ari_2_5_percentile": -0.08089453340695749,
+  "ari_97_5_percentile": 1.0
+}

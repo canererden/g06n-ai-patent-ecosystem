@@ -1,0 +1,57 @@
+{
+  "analysis": "proximity_corporate",
+  "inputs": [
+    {
+      "path": "data/assignee_cpc_year.parquet",
+      "sha256": "dc2fd98d094be571bc442efdb5675a4439463cdc387bdd451992c681d38a53a1"
+    }
+  ],
+  "parameters": {
+    "input": "data/assignee_cpc_year.parquet",
+    "minimum_families": 20.0,
+    "top_firms": 30,
+    "organization_scope": "corporate",
+    "label": "corporate",
+    "end_year": 2025,
+    "g06n_only": false,
+    "cpc_level": "full",
+    "weight_mode": "fractional_family",
+    "permutations": 10000,
+    "bootstrap": 1000,
+    "seed": 266665684
+  },
+  "outputs": [
+    {
+      "path": "results/tables/annual_pairwise_similarity_corporate.csv",
+      "sha256": "f16a0e244a3a9ae0312b9789b7a4c3457ddf01db88e94929f714963f7a65d3eb"
+    },
+    {
+      "path": "results/tables/h2_convergence_test_corporate.json",
+      "sha256": "2b5aa4b935a6757205e5d2793f230c7d5b5c5a76e757c208113279fa0ba8e600"
+    },
+    {
+      "path": "results/figures/annual_proximity_trend_corporate.png",
+      "sha256": "3f0f28271e53a12ac1457a7af5d7447ceab30de949b88b10fbee848f2d11d1e5"
+    },
+    {
+      "path": "results/tables/cluster_assignments_corporate.csv",
+      "sha256": "aceb54866d8262a422d84a321c5450de13ec8e3a35c6789574675a21cbc9f3a1"
+    },
+    {
+      "path": "results/tables/cluster_selection_corporate.csv",
+      "sha256": "337fb6bf21f8e7f298e56489653b19d7077aa1f7ed4358fa0f045485e9c96cee"
+    },
+    {
+      "path": "results/tables/cluster_stability_corporate.json",
+      "sha256": "4194ae24931a6800fd5c8d8088b32112238ac576015fd910282ca4e427780160"
+    },
+    {
+      "path": "results/tables/cluster_cpc_profiles_corporate.csv",
+      "sha256": "f2347b5ed5b48c723101f4a1e20dadd3f60a6f96461b13cd1752a96051587bff"
+    },
+    {
+      "path": "results/figures/assignee_dendrogram_corporate.png",
+      "sha256": "747620f04b4bbd32f187e72ba15132967fcc3bb3e50218a1afd2963a56ac71e3"
+    }
+  ]
+}

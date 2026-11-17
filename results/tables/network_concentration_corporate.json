@@ -1,0 +1,14 @@
+{
+  "eligible_nodes": 948,
+  "centrality_graph_nodes": 300,
+  "centrality_graph_directed_edges": 36970,
+  "total_fractional_citation_weight": 567127.1066534414,
+  "in_strength_gini": 0.8225627939858933,
+  "in_strength_hhi": 0.01788781551416366,
+  "top_1_share": 0.07279466317384477,
+  "top_5_share": 0.23992366404820067,
+  "top_10_share": 0.33695797265682453,
+  "organization_scope": "corporate",
+  "minimum_g06n_families": 50,
+  "corporate_screen_limit": "Name-based classification; the all-assignee sensitivity analysis is required."
+}

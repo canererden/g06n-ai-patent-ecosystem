@@ -1,0 +1,57 @@
+{
+  "analysis": "proximity_us_grants_corporate",
+  "inputs": [
+    {
+      "path": "data/assignee_cpc_year_us_grants.parquet",
+      "sha256": "c57f19b2c5ef73f14f50053c6c391b7679df67209e043dcc78949d896a74a6c0"
+    }
+  ],
+  "parameters": {
+    "input": "data/assignee_cpc_year_us_grants.parquet",
+    "minimum_families": 20.0,
+    "top_firms": 30,
+    "organization_scope": "corporate",
+    "label": "us_grants_corporate",
+    "end_year": 2025,
+    "g06n_only": false,
+    "cpc_level": "full",
+    "weight_mode": "fractional_family",
+    "permutations": 10000,
+    "bootstrap": 500,
+    "seed": 266665684
+  },
+  "outputs": [
+    {
+      "path": "results/tables/annual_pairwise_similarity_us_grants_corporate.csv",
+      "sha256": "58c158e43f8c29542f0e48343e225b26fc27df035e6d891bce57517876c43bec"
+    },
+    {
+      "path": "results/tables/h2_convergence_test_us_grants_corporate.json",
+      "sha256": "7deb499c3e8223d9b0be67e2fbf22aa790196d64c50d809bd4fe90181b5861ef"
+    },
+    {
+      "path": "results/figures/annual_proximity_trend_us_grants_corporate.png",
+      "sha256": "c4002ed3b97c4b550c059760bf12aa06040e534f97e42a4f9724ed1a5ac41dda"
+    },
+    {
+      "path": "results/tables/cluster_assignments_us_grants_corporate.csv",
+      "sha256": "5dc54bf76dd0020ec8a9608ee4dfeecb9e0ec7d3028e2a3564ce1aa252a28dc6"
+    },
+    {
+      "path": "results/tables/cluster_selection_us_grants_corporate.csv",
+      "sha256": "797ce3b6596e5a26c72c044d72fefab589ad487c82b5c35d421be6bb556c331a"
+    },
+    {
+      "path": "results/tables/cluster_stability_us_grants_corporate.json",
+      "sha256": "26f97079c83b76a5c3c1c08690e1633c5e22414ceaaf0a01ef3775bd298d8e93"
+    },
+    {
+      "path": "results/tables/cluster_cpc_profiles_us_grants_corporate.csv",
+      "sha256": "e47a37d792bb6e6252377de8126740db5b2a906056e3e86c07ec832148b00a76"
+    },
+    {
+      "path": "results/figures/assignee_dendrogram_us_grants_corporate.png",
+      "sha256": "e4887797aa40a62abfd57e0d15c1ca611dffa94c0b04aa1de40e2cbc35f86227"
+    }
+  ]
+}

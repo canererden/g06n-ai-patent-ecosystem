@@ -1,0 +1,57 @@
+{
+  "analysis": "proximity_corporate_subclass_code_occurrence",
+  "inputs": [
+    {
+      "path": "data/assignee_cpc_year.parquet",
+      "sha256": "dc2fd98d094be571bc442efdb5675a4439463cdc387bdd451992c681d38a53a1"
+    }
+  ],
+  "parameters": {
+    "input": "data/assignee_cpc_year.parquet",
+    "minimum_families": 20.0,
+    "top_firms": 30,
+    "organization_scope": "corporate",
+    "label": "corporate_subclass_code_occurrence",
+    "end_year": 2025,
+    "g06n_only": false,
+    "cpc_level": "subclass",
+    "weight_mode": "code_occurrence",
+    "permutations": 10000,
+    "bootstrap": 500,
+    "seed": 266665684
+  },
+  "outputs": [
+    {
+      "path": "results/tables/annual_pairwise_similarity_corporate_subclass_code_occurrence.csv",
+      "sha256": "21d3444a9f421c7a6df26e49de61c3389ff7dc3cf7901f59ec49f82a1c0291ff"
+    },
+    {
+      "path": "results/tables/h2_convergence_test_corporate_subclass_code_occurrence.json",
+      "sha256": "f753a42e187cd46862f79347de108db5bea63ab459066d62c3022f27e153f910"
+    },
+    {
+      "path": "results/figures/annual_proximity_trend_corporate_subclass_code_occurrence.png",
+      "sha256": "fee97f5664e9756352412c62a08cb1c6eff8269c4e3d3c98cbba2a9e0c096eae"
+    },
+    {
+      "path": "results/tables/cluster_assignments_corporate_subclass_code_occurrence.csv",
+      "sha256": "db36499873f0ba04097b95fe54f3ee174cacf87cc91795b094e00a2fc00f2927"
+    },
+    {
+      "path": "results/tables/cluster_selection_corporate_subclass_code_occurrence.csv",
+      "sha256": "df65bd0eedabed7d5187743221ada163e04bc93b6065bc07065d303ad85fec3c"
+    },
+    {
+      "path": "results/tables/cluster_stability_corporate_subclass_code_occurrence.json",
+      "sha256": "ec39476b076c462ef722f86bca2502341e977e21219b387222abf3510acd83ce"
+    },
+    {
+      "path": "results/tables/cluster_cpc_profiles_corporate_subclass_code_occurrence.csv",
+      "sha256": "6f08a39c94d5ae321ab212237945661288fe89eed94148c89e8d842f68506e3f"
+    },
+    {
+      "path": "results/figures/assignee_dendrogram_corporate_subclass_code_occurrence.png",
+      "sha256": "201f43d3cf906ff6f1c63eedd5baa305ce58f712966e8063fa4679c5be3b4e68"
+    }
+  ]
+}

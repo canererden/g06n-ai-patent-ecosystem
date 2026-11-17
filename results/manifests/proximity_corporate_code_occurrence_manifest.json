@@ -1,0 +1,57 @@
+{
+  "analysis": "proximity_corporate_code_occurrence",
+  "inputs": [
+    {
+      "path": "data/assignee_cpc_year.parquet",
+      "sha256": "dc2fd98d094be571bc442efdb5675a4439463cdc387bdd451992c681d38a53a1"
+    }
+  ],
+  "parameters": {
+    "input": "data/assignee_cpc_year.parquet",
+    "minimum_families": 20.0,
+    "top_firms": 30,
+    "organization_scope": "corporate",
+    "label": "corporate_code_occurrence",
+    "end_year": 2025,
+    "g06n_only": false,
+    "cpc_level": "full",
+    "weight_mode": "code_occurrence",
+    "permutations": 10000,
+    "bootstrap": 500,
+    "seed": 266665684
+  },
+  "outputs": [
+    {
+      "path": "results/tables/annual_pairwise_similarity_corporate_code_occurrence.csv",
+      "sha256": "fd598b8812ecbaee6ab648dc4fd965d9e416facc50a00eb626df6e8039660cb9"
+    },
+    {
+      "path": "results/tables/h2_convergence_test_corporate_code_occurrence.json",
+      "sha256": "dc71637c9173badffc3738063246c9a3ad3b287dd8aa0b363930c47d5723fdae"
+    },
+    {
+      "path": "results/figures/annual_proximity_trend_corporate_code_occurrence.png",
+      "sha256": "3e907128570c2c540876555f4b54d8876190525d1852e5ef13ca6b73847b5123"
+    },
+    {
+      "path": "results/tables/cluster_assignments_corporate_code_occurrence.csv",
+      "sha256": "aceb54866d8262a422d84a321c5450de13ec8e3a35c6789574675a21cbc9f3a1"
+    },
+    {
+      "path": "results/tables/cluster_selection_corporate_code_occurrence.csv",
+      "sha256": "c798363a5f4b184242ef171599b5748fc38e2ca17bab3f893b609cc9258bebfb"
+    },
+    {
+      "path": "results/tables/cluster_stability_corporate_code_occurrence.json",
+      "sha256": "83bd6ab968e6a8a35e1aa75652eedc566e91d78f38c59ad28dc09d07f40f61a6"
+    },
+    {
+      "path": "results/tables/cluster_cpc_profiles_corporate_code_occurrence.csv",
+      "sha256": "e3d970be253493f0bd714e5f3f901bc4e708c69184f02b05d6dc787aa9cadaf1"
+    },
+    {
+      "path": "results/figures/assignee_dendrogram_corporate_code_occurrence.png",
+      "sha256": "2d8a0315545579204a7abaaf5a018485c7ce86114309cf77a8bd6431e7db3563"
+    }
+  ]
+}

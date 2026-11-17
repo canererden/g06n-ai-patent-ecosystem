@@ -1,0 +1,57 @@
+{
+  "analysis": "proximity_all_assignees_subclass",
+  "inputs": [
+    {
+      "path": "data/assignee_cpc_year.parquet",
+      "sha256": "dc2fd98d094be571bc442efdb5675a4439463cdc387bdd451992c681d38a53a1"
+    }
+  ],
+  "parameters": {
+    "input": "data/assignee_cpc_year.parquet",
+    "minimum_families": 20.0,
+    "top_firms": 30,
+    "organization_scope": "all",
+    "label": "all_assignees_subclass",
+    "end_year": 2025,
+    "g06n_only": false,
+    "cpc_level": "subclass",
+    "weight_mode": "fractional_family",
+    "permutations": 10000,
+    "bootstrap": 500,
+    "seed": 266665684
+  },
+  "outputs": [
+    {
+      "path": "results/tables/annual_pairwise_similarity_all_assignees_subclass.csv",
+      "sha256": "8b83d51587e0d5e51abecfd52269bab4d65079a0fb00906a9f484e4ca220b238"
+    },
+    {
+      "path": "results/tables/h2_convergence_test_all_assignees_subclass.json",
+      "sha256": "c8f29c62d9f9d839b5d1c572ee762294376ca4495e6a9a3d86084c2130169075"
+    },
+    {
+      "path": "results/figures/annual_proximity_trend_all_assignees_subclass.png",
+      "sha256": "0daa5162e8b1c5bf9ad700c3fab2d42426002c0f6a45451935c26d6ca7695841"
+    },
+    {
+      "path": "results/tables/cluster_assignments_all_assignees_subclass.csv",
+      "sha256": "7567367a59dd0def09c0b44e8d79eff3fe9f332eb625ec63dd84e98fac7d5ed4"
+    },
+    {
+      "path": "results/tables/cluster_selection_all_assignees_subclass.csv",
+      "sha256": "a65c2bc242587261d911b6ea671c865f61fddb13d0988a700592567167368758"
+    },
+    {
+      "path": "results/tables/cluster_stability_all_assignees_subclass.json",
+      "sha256": "2b055c35967e95058a0ff7a83e4c3e04cf1813984603ca6f7db5b8a9fd86936d"
+    },
+    {
+      "path": "results/tables/cluster_cpc_profiles_all_assignees_subclass.csv",
+      "sha256": "6be357bca50bf8a8d9b6f561c436813b73f09917b447e136e92e09c50cb53775"
+    },
+    {
+      "path": "results/figures/assignee_dendrogram_all_assignees_subclass.png",
+      "sha256": "063aa1af62adb191d97dae6219ea48c095f24b458930a239bf200465ee1533cf"
+    }
+  ]
+}

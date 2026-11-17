@@ -1,0 +1,10 @@
+{
+  "induced_nodes": 100,
+  "observed_max_betweenness": 0.5346320346320346,
+  "null_mean": 0.11159554730983301,
+  "null_2_5_percentile": 0.07146206967635538,
+  "null_97_5_percentile": 0.15787724180581322,
+  "upper_tail_p": 0.0196078431372549,
+  "repetitions": 50,
+  "interpretation_limit": "The null test is a topology sensitivity analysis on the strongest-node induced network; it does not establish causal control of knowledge flows."
+}

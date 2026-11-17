@@ -1,0 +1,39 @@
+{
+  "generative_ai": {
+    "prespecified_break_period": "2023Q1",
+    "model": "binomial GLM on quarterly counts; linear time trend versus segmented time trend",
+    "linear_model_log_likelihood": -2221.605875380283,
+    "segmented_model_log_likelihood": -2202.527283290172,
+    "likelihood_ratio_chi_square": 38.15718418022243,
+    "likelihood_ratio_df": 1,
+    "likelihood_ratio_p": 6.526898813034751e-10,
+    "pre_break_log_odds_slope": 0.0687697532769147,
+    "post_break_incremental_log_odds_slope": 0.14564925286692187,
+    "post_break_total_log_odds_slope": 0.21441900614383658,
+    "post_break_total_slope_standard_error": 0.012914177441791417,
+    "post_break_total_slope_wald_p_two_sided": 6.587378333990343e-62,
+    "warning": "The breakpoint was prespecified. Results describe publication prevalence and do not establish a causal effect of generative AI."
+  },
+  "vision": {
+    "prespecified_break_period": "2023Q1",
+    "model": "binomial GLM on quarterly counts; linear time trend versus segmented time trend",
+    "linear_model_log_likelihood": -8946.854558247785,
+    "segmented_model_log_likelihood": -8928.386778745877,
+    "likelihood_ratio_chi_square": 36.935559003817616,
+    "likelihood_ratio_df": 1,
+    "likelihood_ratio_p": 1.2209868562145982e-09,
+    "pre_break_log_odds_slope": 0.032900590551850795,
+    "post_break_incremental_log_odds_slope": -0.05148009621712776,
+    "post_break_total_log_odds_slope": -0.01857950566527697,
+    "post_break_total_slope_standard_error": 0.006123651581168603,
+    "post_break_total_slope_wald_p_two_sided": 0.002412891342771369,
+    "warning": "The breakpoint was prespecified. Results describe publication prevalence and do not establish a causal effect of generative AI."
+  },
+  "interpretation": {
+    "generative_ai_increase_after_2023": true,
+    "vision_decline_after_2023": true,
+    "directional_pattern_consistent_with_partial_shift": true,
+    "radical_substitution_claim_supported": false,
+    "note": "The indicators are non-mutually-exclusive. Parallel prevalence trends can show emergence and attenuation but cannot establish that generative AI displaced vision technologies."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "abstract_sample": {
+    "rows": 40000,
+    "unique_families": 40000,
+    "duplicate_family_rows": 0,
+    "missing_abstracts": 0,
+    "unparseable_publication_dates": 0,
+    "publication_year_date_mismatches": 0,
+    "families_per_year": {
+      "2018": 5000,
+      "2019": 5000,
+      "2020": 5000,
+      "2021": 5000,
+      "2022": 5000,
+      "2023": 5000,
+      "2024": 5000,
+      "2025": 5000
+    }
+  },
+  "assignee_cpc_panel": {
+    "rows": 6420968,
+    "unique_families": 678512,
+    "unique_raw_assignees": 144281,
+    "exact_duplicate_family_assignee_cpc_year_rows": 0,
+    "nonpositive_fractional_counts": 0,
+    "nonfinite_fractional_counts": 0
+  },
+  "citation_edges": {
+    "rows": 11080716,
+    "unique_citing_families": 482034,
+    "unique_cited_families": 1559162,
+    "exact_duplicate_expanded_rows": 0,
+    "nonpositive_fractional_weights": 0,
+    "nonfinite_fractional_weights": 0,
+    "self_edges_after_active_name_harmonization": 14776,
+    "total_fractional_weight": 4186381.4108935385
+  },
+  "limitations": [
+    "Name harmonization is explicit but not a comprehensive global ultimate-owner concordance.",
+    "The abstract corpus is a deterministic stratified sample of 5,000 simple families per publication year.",
+    "CPC assignments reflect the current public-data snapshot and can be affected by reclassification."
+  ]
+}

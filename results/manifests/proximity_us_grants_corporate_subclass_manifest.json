@@ -1,0 +1,57 @@
+{
+  "analysis": "proximity_us_grants_corporate_subclass",
+  "inputs": [
+    {
+      "path": "data/assignee_cpc_year_us_grants.parquet",
+      "sha256": "c57f19b2c5ef73f14f50053c6c391b7679df67209e043dcc78949d896a74a6c0"
+    }
+  ],
+  "parameters": {
+    "input": "data/assignee_cpc_year_us_grants.parquet",
+    "minimum_families": 20.0,
+    "top_firms": 30,
+    "organization_scope": "corporate",
+    "label": "us_grants_corporate_subclass",
+    "end_year": 2025,
+    "g06n_only": false,
+    "cpc_level": "subclass",
+    "weight_mode": "fractional_family",
+    "permutations": 10000,
+    "bootstrap": 500,
+    "seed": 266665684
+  },
+  "outputs": [
+    {
+      "path": "results/tables/annual_pairwise_similarity_us_grants_corporate_subclass.csv",
+      "sha256": "7f82dce93323b26962b356e568956af09cc93223a2fc73a3a04bbc6cb67c9bec"
+    },
+    {
+      "path": "results/tables/h2_convergence_test_us_grants_corporate_subclass.json",
+      "sha256": "c4027be6420c4bcaf93246c75df22818aab12565770c4d13dd3160e3475c848d"
+    },
+    {
+      "path": "results/figures/annual_proximity_trend_us_grants_corporate_subclass.png",
+      "sha256": "17849bbb1d76d1331d18e6fcc41d59f7dda5998c0b00b5dba21fe5eceb2c9d08"
+    },
+    {
+      "path": "results/tables/cluster_assignments_us_grants_corporate_subclass.csv",
+      "sha256": "fc326ec2b80610bb135a4e70d8223369bb767fd1aa4c6bf6bf74434a857e4edb"
+    },
+    {
+      "path": "results/tables/cluster_selection_us_grants_corporate_subclass.csv",
+      "sha256": "f96b787f244c33cbf7c82c4017ffae2429ab2d41b0684186a3ca3f0e4da8d7ff"
+    },
+    {
+      "path": "results/tables/cluster_stability_us_grants_corporate_subclass.json",
+      "sha256": "1f1524c8ff6c93badc75e122309478b79a3c8076b7b2c9f2654ea37f34df2418"
+    },
+    {
+      "path": "results/tables/cluster_cpc_profiles_us_grants_corporate_subclass.csv",
+      "sha256": "fad3701927b778acbc82d9a3446fe55fd312baafa28dc0bc408a90cd84eb1f5d"
+    },
+    {
+      "path": "results/figures/assignee_dendrogram_us_grants_corporate_subclass.png",
+      "sha256": "9e925428325a8f352be258b770a56335efb2aa8d8637a6014e033d2237b1baf9"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "analysis": "network_corporate",
+  "inputs": [
+    {
+      "path": "data/citation_edges.parquet",
+      "sha256": "dc2a35eadd9b7760071712c63c2feae284d923fcc02b8337da4f8b155035627a"
+    },
+    {
+      "path": "data/assignee_cpc_year.parquet",
+      "sha256": "dc2fd98d094be571bc442efdb5675a4439463cdc387bdd451992c681d38a53a1"
+    }
+  ],
+  "parameters": {
+    "input": "data/citation_edges.parquet",
+    "portfolio_input": "data/assignee_cpc_year.parquet",
+    "minimum_families": 50,
+    "maximum_nodes": 300,
+    "organization_scope": "corporate",
+    "label": "corporate",
+    "bootstrap": 200,
+    "null": 100,
+    "seed": 266665684,
+    "aliases": {
+      "MICROSOFT TECHNOLOGY LICENSING LLC": "MICROSOFT",
+      "MICROSOFT CORP": "MICROSOFT",
+      "MICROSOFT CORPORATION": "MICROSOFT",
+      "GOOGLE LLC": "GOOGLE",
+      "GOOGLE INC": "GOOGLE",
+      "INTERNATIONAL BUSINESS MACHINES CORPORATION": "IBM",
+      "IBM CORP": "IBM",
+      "SAMSUNG ELECTRONICS CO LTD": "SAMSUNG ELECTRONICS",
+      "MICROSOFT TECH PERMISSION LIMITED RESPONSIBILITY COMPANY": "MICROSOFT",
+      "MICROSOFT LICENSING TECH LLC": "MICROSOFT",
+      "MICROSOFT TECH LICESNING LLC": "MICROSOFT",
+      "MICROSOFT TECHNOLOGY LICENSING": "MICROSOFT",
+      "MICROSOFT TEHCNOLOGY LICENSING LLC": "MICROSOFT",
+      "MICROSOFT TECHNOIOGY LICENSING LLC": "MICROSOFT",
+      "GOOGLE LTD RESPONSIBILITY COMPANY": "GOOGLE",
+      "GOOGLE INC GOOGLE LLC": "GOOGLE",
+      "GOOGLE LLC GOOGLE INC": "GOOGLE",
+      "GOOGLE LCC": "GOOGLE",
+      "FACEBOOK INC": "META PLATFORMS",
+      "FACEBOOK TECH LLC": "META PLATFORMS",
+      "FACEBOOK TECH INC": "META PLATFORMS",
+      "FACEBOOK TECHNOLOGIES LLC": "META PLATFORMS",
+      "META PLATFORMS INC": "META PLATFORMS",
+      "META PLATFORMS TECH LLC": "META PLATFORMS",
+      "AMAZON TECH INC": "AMAZON",
+      "AMAZON COM INC": "AMAZON",
+      "BEIJING BAIDU NETCOM SCI TEC": "BEIJING BAIDU NETCOM SCI TECH CO LTD"
+    }
+  },
+  "outputs": [
+    {
+      "path": "results/tables/network_centrality_corporate.csv",
+      "sha256": "958843f425e6adbb0f92468f9c548afd7fc6d7ca18803fd4caa06d77b61ce245"
+    },
+    {
+      "path": "results/tables/network_concentration_corporate.json",
+      "sha256": "334be2ae08061d861463adad6bc6bdaf5749e634b4c3bff7b75b5e31e8498589"
+    },
+    {
+      "path": "results/tables/h1_brokerage_null_test_corporate.json",
+      "sha256": "9ad8ae7e49218a8403a23bbb43fe463f0b9f4757d225908e9a67b0c899837a33"
+    },
+    {
+      "path": "results/figures/network_positioning_corporate.png",
+      "sha256": "a4f07db0f148055081eed55de0f0f864e652a127684eb1ca8d2e58bd6b051fae"
+    }
+  ]
+}

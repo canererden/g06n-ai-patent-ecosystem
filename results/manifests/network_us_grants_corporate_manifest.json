@@ -1,0 +1,71 @@
+{
+  "analysis": "network_us_grants_corporate",
+  "inputs": [
+    {
+      "path": "data/citation_edges_us_grants.parquet",
+      "sha256": "f200ef7210fb3bb2b731ec6a5b393af4cb5a4492011e2eb83217dec3d543a633"
+    },
+    {
+      "path": "data/assignee_cpc_year_us_grants.parquet",
+      "sha256": "c57f19b2c5ef73f14f50053c6c391b7679df67209e043dcc78949d896a74a6c0"
+    }
+  ],
+  "parameters": {
+    "input": "data/citation_edges_us_grants.parquet",
+    "portfolio_input": "data/assignee_cpc_year_us_grants.parquet",
+    "minimum_families": 50,
+    "maximum_nodes": 300,
+    "organization_scope": "corporate",
+    "label": "us_grants_corporate",
+    "bootstrap": 100,
+    "null": 50,
+    "seed": 266665684,
+    "aliases": {
+      "MICROSOFT TECHNOLOGY LICENSING LLC": "MICROSOFT",
+      "MICROSOFT CORP": "MICROSOFT",
+      "MICROSOFT CORPORATION": "MICROSOFT",
+      "GOOGLE LLC": "GOOGLE",
+      "GOOGLE INC": "GOOGLE",
+      "INTERNATIONAL BUSINESS MACHINES CORPORATION": "IBM",
+      "IBM CORP": "IBM",
+      "SAMSUNG ELECTRONICS CO LTD": "SAMSUNG ELECTRONICS",
+      "MICROSOFT TECH PERMISSION LIMITED RESPONSIBILITY COMPANY": "MICROSOFT",
+      "MICROSOFT LICENSING TECH LLC": "MICROSOFT",
+      "MICROSOFT TECH LICESNING LLC": "MICROSOFT",
+      "MICROSOFT TECHNOLOGY LICENSING": "MICROSOFT",
+      "MICROSOFT TEHCNOLOGY LICENSING LLC": "MICROSOFT",
+      "MICROSOFT TECHNOIOGY LICENSING LLC": "MICROSOFT",
+      "GOOGLE LTD RESPONSIBILITY COMPANY": "GOOGLE",
+      "GOOGLE INC GOOGLE LLC": "GOOGLE",
+      "GOOGLE LLC GOOGLE INC": "GOOGLE",
+      "GOOGLE LCC": "GOOGLE",
+      "FACEBOOK INC": "META PLATFORMS",
+      "FACEBOOK TECH LLC": "META PLATFORMS",
+      "FACEBOOK TECH INC": "META PLATFORMS",
+      "FACEBOOK TECHNOLOGIES LLC": "META PLATFORMS",
+      "META PLATFORMS INC": "META PLATFORMS",
+      "META PLATFORMS TECH LLC": "META PLATFORMS",
+      "AMAZON TECH INC": "AMAZON",
+      "AMAZON COM INC": "AMAZON",
+      "BEIJING BAIDU NETCOM SCI TEC": "BEIJING BAIDU NETCOM SCI TECH CO LTD"
+    }
+  },
+  "outputs": [
+    {
+      "path": "results/tables/network_centrality_us_grants_corporate.csv",
+      "sha256": "a3ba88a1c8a938800da17695d17bb14fa519b4e14fd0954349d8d367bb90ad43"
+    },
+    {
+      "path": "results/tables/network_concentration_us_grants_corporate.json",
+      "sha256": "4f112dd9ba578e76c3feff8be57fe38e85ca06bb57e921194fbe050eb689095d"
+    },
+    {
+      "path": "results/tables/h1_brokerage_null_test_us_grants_corporate.json",
+      "sha256": "1a0ee6a596c62da743dfb416378c6a2418040ac5a7bbb2052fd7193058895d37"
+    },
+    {
+      "path": "results/figures/network_positioning_us_grants_corporate.png",
+      "sha256": "ee195aa4a7966944b359a50a8c4e917825718f95f58c954fb8313bbd047195c8"
+    }
+  ]
+}
