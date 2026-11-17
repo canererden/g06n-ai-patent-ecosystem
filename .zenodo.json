@@ -1,0 +1,12 @@
+{
+  "title": "Data and code for: Industrial AI Ecosystems and Innovation Diffusion: Mapping Structural Dominance and Its Societal Implications (2018–2025)",
+  "upload_type": "dataset",
+  "description": "SQL queries, derived datasets and analysis code for an article in Technology Analysis & Strategic Management. The data cover simple patent families with at least one G06N CPC code published 2018–2025 in Google Patents Public Data (extraction of 17 November 2026): fractional inter-assignee citation edges, family–assignee–CPC portfolios, US-grant sensitivity tables and a year-stratified sample of 40,000 English abstracts. The code reproduces all tables, figures and reported values of the article.",
+  "creators": [
+    {"name": "Tutar, Hasan", "affiliation": "Istanbul Beykent University"},
+    {"name": "Erden, Caner", "affiliation": "Sakarya University of Applied Sciences", "orcid": "0000-0002-7311-862X"}
+  ],
+  "license": "cc-by-4.0",
+  "keywords": ["innovation ecosystem", "artificial intelligence", "patent analysis", "citation network", "G06N", "generative AI", "BigQuery", "Google Patents Public Data"],
+  "access_right": "open"
+}

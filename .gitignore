@@ -1,2 +1,9 @@
 __pycache__/
 *.pyc
+.venv*/
+# joined copies created by src/assemble_data.py
+data/citation_edges.parquet
+data/assignee_cpc_year.parquet
+data/citation_edges_us_grants.parquet
+data/assignee_cpc_year_us_grants.parquet
+results/abstract_embeddings*.npy
