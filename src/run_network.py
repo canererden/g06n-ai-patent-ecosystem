@@ -102,7 +102,13 @@ def brokerage_null(graph: nx.DiGraph, repetitions: int, seed: int, maximum_nodes
     rng = np.random.default_rng(seed)
     strength = {node: graph.in_degree(node, weight="weight") + graph.out_degree(node, weight="weight") for node in graph}
     nodes = sorted(strength, key=strength.get, reverse=True)[:maximum_nodes]
-    observed_graph = graph.subgraph(nodes).copy()
+    # Build the induced graph in a fixed (sorted) order: graph.subgraph() iterates a Python
+    # set, whose order changes between interpreter runs and would make the seeded rewiring
+    # non-reproducible.
+    keep = set(nodes)
+    observed_graph = nx.DiGraph()
+    observed_graph.add_nodes_from(sorted(keep))
+    observed_graph.add_edges_from(sorted((u, v, d) for u, v, d in graph.edges(data=True) if u in keep and v in keep))
     observed = max_weighted_betweenness(observed_graph)
     base_edges = list(observed_graph.edges())
     base_weights = [observed_graph[u][v]["weight"] for u, v in base_edges]

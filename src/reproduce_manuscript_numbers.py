@@ -52,7 +52,7 @@ check("In-strength Gini", "0.82", f"{conc['in_strength_gini']:.2f}")
 check("Top-10 share (%)", "33.7", f"{100 * conc['top_10_share']:.1f}")
 null = j("h1_brokerage_null_test_corporate.json")
 check("Observed maximum betweenness", "0.755", f"{null['observed_max_betweenness']:.3f}")
-check("Null mean of maximum betweenness", "0.119", f"{null['null_mean']:.3f}")
+check("Null mean of maximum betweenness", "0.122", f"{null['null_mean']:.3f}")
 check("Null-test p (upper tail)", "0.0099", f"{null['upper_tail_p']:.4f}")
 check("Null randomizations", "100", str(null["repetitions"]))
 
